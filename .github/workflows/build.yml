@@ -1,0 +1,37 @@
+name: Build paperwork bundle
+
+on:
+  push:
+    paths:
+      - "docs/**"
+      - "tools/render_ftl.py"
+      - "requirements.txt"
+      - ".github/workflows/**"
+  pull_request:
+    paths:
+      - "docs/**"
+      - "tools/render_ftl.py"
+      - "requirements.txt"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Regenerate Fluent bundle
+        run: python tools/render_ftl.py
+
+      - name: Ensure bundle is committed
+        run: git diff --exit-code
