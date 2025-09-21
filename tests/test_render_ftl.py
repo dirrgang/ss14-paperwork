@@ -2,18 +2,32 @@ from pathlib import Path
 
 import pytest
 
-from tools.render_ftl import PaperParseError, discover_documents, render_ftl
+from tools.render_ftl import (
+    PaperParseError,
+    discover_documents,
+    render_documents_yaml,
+    render_ftl,
+)
 
 
-def write_paper(path: Path, content: str) -> None:
+def write_paper(path: Path, title: str, body: str) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
+    content = f"# {title}\n{body}"
     path.write_text(content, encoding="utf-8")
 
 
 def test_unique_fluent_keys_include_categories(tmp_path: Path) -> None:
     docs_dir = tmp_path / "docs"
-    write_paper(docs_dir / "identity" / "id-replacement.paper", "[bold]Identity[/bold]\n")
-    write_paper(docs_dir / "medical" / "id-replacement.paper", "[bold]Medical[/bold]\n")
+    write_paper(
+        docs_dir / "identity" / "id-replacement.paper",
+        "ID Replacement",
+        "[bold]Identity[/bold]\n",
+    )
+    write_paper(
+        docs_dir / "medical" / "id-replacement.paper",
+        "ID Replacement",
+        "[bold]Medical[/bold]\n",
+    )
 
     documents = discover_documents(docs_dir)
     keys = [doc.fluent_key for doc in documents]
@@ -25,8 +39,8 @@ def test_unique_fluent_keys_include_categories(tmp_path: Path) -> None:
 
 def test_skips_partial_directories(tmp_path: Path) -> None:
     docs_dir = tmp_path / "docs"
-    write_paper(docs_dir / "security" / "incident.paper", "Details\n")
-    write_paper(docs_dir / "_partials" / "footer.paper", "Footer\n")
+    write_paper(docs_dir / "security" / "incident.paper", "Incident", "Details\n")
+    write_paper(docs_dir / "_partials" / "footer.paper", "Footer", "Footer body\n")
 
     documents = discover_documents(docs_dir)
     assert len(documents) == 1
@@ -35,20 +49,53 @@ def test_skips_partial_directories(tmp_path: Path) -> None:
 
 def test_render_output_includes_category_headers(tmp_path: Path) -> None:
     docs_dir = tmp_path / "docs"
-    write_paper(docs_dir / "Engineering" / "Power Plan.paper", "[bold]Plan[/bold]\n")
+    write_paper(
+        docs_dir
+        / "04 Engineering & Logistics (Engineering, Cargo, Janitorial)"
+        / "Power Plan.paper",
+        "Power Plan",
+        "[bold]Plan[/bold]\n",
+    )
 
     documents = discover_documents(docs_dir)
     output = render_ftl(documents)
 
-    assert "# Engineering" in output
-    assert "doc-text-printer-engineering-power-plan" in output
+    assert "# 04 Engineering & Logistics" in output
+    assert "doc-text-printer-04-engineering-logistics-power-plan" in output
+
+
+def test_documents_yaml_contains_titles(tmp_path: Path) -> None:
+    docs_dir = tmp_path / "docs"
+    write_paper(
+        docs_dir / "identity" / "id-replacement.paper",
+        "ID Replacement Request",
+        "[bold]Identity[/bold]\n",
+    )
+
+    documents = discover_documents(docs_dir)
+    yaml_output = render_documents_yaml(documents)
+
+    assert 'documents:' in yaml_output
+    assert 'key: "doc-text-printer-identity-id-replacement"' in yaml_output
+    assert 'name: "ID Replacement Request"' in yaml_output
+    assert '      - "identity"' in yaml_output
+
+
+def test_missing_title_line_raises(tmp_path: Path) -> None:
+    docs_dir = tmp_path / "docs"
+    doc_path = docs_dir / "misc" / "blank.paper"
+    doc_path.parent.mkdir(parents=True, exist_ok=True)
+    doc_path.write_text("No title\n", encoding="utf-8")
+
+    with pytest.raises(PaperParseError):
+        discover_documents(docs_dir)
 
 
 def test_empty_document_raises(tmp_path: Path) -> None:
     docs_dir = tmp_path / "docs"
-    empty_doc = docs_dir / "misc" / "blank.paper"
-    empty_doc.parent.mkdir(parents=True, exist_ok=True)
-    empty_doc.write_text("\n\n", encoding="utf-8")
+    doc_path = docs_dir / "misc" / "blank.paper"
+    doc_path.parent.mkdir(parents=True, exist_ok=True)
+    doc_path.write_text("\n\n", encoding="utf-8")
 
     with pytest.raises(PaperParseError):
         discover_documents(docs_dir)

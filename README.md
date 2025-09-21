@@ -4,20 +4,23 @@ Plain-text `.paper` forms converted into a Starlight-compatible document printer
 
 - Text: CC-BY 4.0
 - Tools: MIT
-- Output: `dist/doc-printer.ftl` (MIT)
+- Outputs: `dist/doc-printer.ftl`, `dist/documents.yml` (MIT)
 
 ## How to use
 
 - Add or edit forms under `docs/**`. Sub-folders define the document categories; the filename is the slug.
-- Run `python tools/render_ftl.py` to regenerate the Fluent bundle after changing paperwork.
+- Begin every document with `# Human Readable Title` so the generator can surface display names.
+- Run `python tools/render_ftl.py` to regenerate both the Fluent bundle and `documents.yml` after changing paperwork.
 - Run `python tools/check_docs.py` to spot duplicate bodies or missing stamp sections.
 - Fluent keys follow `doc-text-printer-{category-path}-{slug}` to keep entries unique across categories.
 - On push, CI runs the same script so downstream consumers stay in sync.
 
 ## Authoring resources
 
-- Follow the guidance in `docs/STYLE_GUIDE.md` for formatting, tone, and common color tags.
-- Copy starter layouts from `docs/_templates/` when drafting new paperwork.
+- Follow the guidance in `docs/STYLE_GUIDE.md` for formatting, tone, color tags, and reusable parts.
+- Copy starter layouts from `docs/_templates/`:
+  - Whole-form examples such as `neutral.paper`, `departmental.paper`, `centcomm.paper`, or `station-command.paper`.
+  - Subfolders like `page_parts/` for mix-and-match building blocks (graphs, checklists, etc.).
 
 ## Testing
 
@@ -25,7 +28,7 @@ Plain-text `.paper` forms converted into a Starlight-compatible document printer
 python -m venv .venv
 . .venv/Scripts/Activate.ps1
 pip install -r requirements.txt
-python tools/render_ftl.py --docs-dir docs --output dist/doc-printer.ftl
+python tools/render_ftl.py --docs-dir docs --output dist/doc-printer.ftl --documents-output dist/documents.yml
 python tools/check_docs.py
 pytest
 ```
