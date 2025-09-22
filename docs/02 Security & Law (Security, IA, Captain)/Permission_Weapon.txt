@@ -1,0 +1,67 @@
+# Weapon Authorization
+[logo]
+
+
+[center][head=1][color=cb0000][bold]WEAPON AUTHORIZATION[/bold][/color][/head][/center]  
+[center][color=#aaaaaa][italic]Issued under authority of the NanoTrasen Security Department – For controlled distribution of restricted arms[/italic][/color][/center]  
+────────────────────────────────────────
+
+[head=2]Authorization Details[/head]  
+[bold]Date & Time Issued:[/bold] [form]
+[bold]Authorizing Official:[/bold] [signature]
+
+[head=2]Authorized Individual[/head]
+[bold]Name:[/bold] [form]  
+
+[head=2]Weapon Type[/head]  
+[check] Sidearm (pistol, revolver)  
+[check] Longarm (rifle, shotgun)  
+[check] Energy weapon (laser, taser)  
+[check] Heavy weapon (carbine, LMG, launcher)  
+[check] Other: [form]
+
+[head=2]Weapon Details[/head]  
+[bold]Weapon Name / Model:[/bold] [form]  
+[bold]Caliber / Energy Type:[/bold] [form]  
+
+[head=2]Authorized Ammunition[/head]  
+[check] Hollow-Point (HP)  
+[check] Soft-Point (SP)  
+[check] Full Metal Jacket (FMJ)  
+[check] Non-Lethal (rubber, beanbag, disruptor, taser, etc.)  
+[check] N/A (Energy, etc.)
+[check] Other: [form]
+
+[head=2]Permitted Ammo Allotment[/head]
+[check] Magazines: [form]
+[check] Magazine Boxes: [form]
+[check] Drums: [form]
+[check] Fast-Loaders: [form]
+[check] N/A
+
+[head=2]Conditions & Restrictions[/head]  
+[check] Permitted alert level: [form]
+[check] Station security operations only  
+[check] Use restricted to specified areas: [form]  
+[check] Must be surrendered after shift / incident  
+[check] Other: [form]
+
+[head=2]Accountability & Liability[/head]  
+[check] Replacement / Damage Liability
+[check] Return By (date/time): [form]
+
+[head=2]Authorization[/head]
+[bold]Required Stamps/Signatures:[/bold]
+[bullet] Warden or above
+
+────────────────────────────────────────  
+[color=#aaaaaa][italic]
+NOTICE: Unauthorized possession or misuse of restricted weaponry is a violation of Corporate Law. All issued arms remain property of NanoTrasen and must be returned upon request.
+[/italic][/color]  
+
+
+
+
+
+
+[color=#aaaaaa][italic]Place for Signatures / Stamps[/italic][/color]
