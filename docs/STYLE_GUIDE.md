@@ -1,3 +1,6 @@
+---
+Foo:
+---
 # Paperwork Style Guide
 
 ## Core Principles
@@ -5,7 +8,7 @@
 - Begin every document with `# Title` so tooling can surface the display name.
 - Lead with prompts that can be satisfied by ticking a box; only ask for free-form writing when no structured option fits.
 - Assume the document will be filled out in-game; keep prompts short and end them with a colon.
-- Leave blank lines where crew members need to write detailed responses.
+- Use placeholders so crew interact with fields without editing the document (`[form]` for typed input, `[signature]` for automatic signatures, `[check]` for checkboxes).
 - Reserve decorative elements for official paperwork (department logos, separators) and keep general-use forms minimal.
 - Include an explicit stamp area (`[italic]Place for stamps[/italic]`) whenever the document needs to be validated.
 - Prefer clear, modern language; avoid lore that contradicts the upstream SS14 setting.
@@ -33,28 +36,41 @@ Color tags support hexadecimal values or most HTML color names:
 - `[color=#ff0000]` ... `[/color]` renders as red.
 - `[color=red]` ... `[/color]` accomplishes the same thing.
 
+### Placeholders
+
+This repository assumes the fork can recognize interactive placeholders that replace manual blue-ink prompts:
+
+- `[form]` prompts the user for text input and inserts their response.
+- `[signature]` resolves to the current crew member's signature automatically.
+- `[check]` renders an in-paper checkbox that can be toggled.
+
+Placeholders can sit on the same line as a prompt or on the following line when you want to give the player more room. They may be combined with emphasis or color tags when needed.
+
 ## Prompt Patterns
 
-- Offer the common answers first using checkboxes `(  )` or `[ ]`; reserve an `Other:` line for edge cases.
+- Offer the common answers first and attach `[check]` placeholders so they can be toggled directly; reserve an `Other:` line with its own `[form]` when edge cases appear.
 - Pair each checkbox choice with a short label that can fit on one line.
 - When lists are long, split them into logical clusters separated by a blank line or a `[bullet]` label.
-- Keep any free-response request to a single prompt and place it after the structured options.
+- Keep any free-response request to a single prompt and place it after the structured options; include a `[form]` so it opens the text entry window.
 
 ## Player Input Styling
 
-- Wrap every player entry in `[color=#002AAF]` to mimic blue ink. Use a single-word placeholder that matches the field label (e.g., `[color=#002AAF]Name[/color]`) so it can be replaced with one double-click.
-- Leave the placeholder empty (`[color=#002AAF][/color]`) when a response is optional or expected to be longer than one word so the player never has to delete template text.
-- Never ship the literal word `Sample`; rely on the field label or an empty placeholder instead.
-- Provide a line of `‾` characters under prompts that expect handwriting so the guide stays legible even if untouched.
+- Use `[form]` on the same line as short responses (Name, Position) and place it on a new line when you expect a paragraph.
+- Append `[check]` at the end of each checkbox label so it toggles cleanly; align them in columns with spaces when you want a wider layout.
+- Drop in `[signature]` wherever a signature is required. For multi-party signatures, repeat the prompt plus `[signature]` on separate lines. You can also use `[signature]` to speed up adding the character's name in printed forms. However, forms should ideally be written in such a way, that the name should only be filled out once, at the top.
 
 Example:
 
 ```
-Name:    [color=#002AAF]Name[/color]
-         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-(  ) Intern     (  ) Engineer     (  ) Command Staff
-(  ) Other: [color=#002AAF][/color]
-         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Name: [form]
+Department:
+[check] Engineering    [check] Medical [check]
+[check] Security       [check] Other: [form]
+
+Reason for request:
+[form]
+
+Signature: [signature]
 ```
 
 ## Headings
@@ -63,15 +79,6 @@ Name:    [color=#002AAF]Name[/color]
 - Use `[head=2]` for major sections and keep the text <= 37 characters.
 - `[head=3]` and `[head=4]` are acceptable for sub-sections, but prefer concise phrases that fit on one line.
 - Avoid nested heading levels inside tables or choice blocks; use plain labels instead.
-
-## Templates & Page Parts
-
-- `docs/_templates/centcomm.paper` - CentCom priority mail header with sender/recipient lines.
-- `docs/_templates/departmental.paper` - department-colour banner for general notices.
-- `docs/_templates/neutral.paper` - minimal blank letterhead when no department frills are needed.
-- `docs/_templates/station-command.paper` - command-branded stationery for joint orders.
-- `docs/_templates/page_parts/choice-block.paper` - checkboxes and radio buttons ready for copy-paste.
-- `docs/_templates/page_parts/horizontal-rules.paper` - separator styles that match standard paper width.
 
 ## Color Reference
 
@@ -93,7 +100,7 @@ ff0000 Syndicate
 
 ## Pre-submission Checks
 
-- Confirm every fillable field already includes `[color=#002AAF]` with either a matching single-word placeholder or an empty tag.
-- Ensure each prompt has either a checkbox list or a `‾` line so players are never typing on blank space.
+- Confirm every fillable field now uses `[form]`, `[signature]`, or `[check]` as appropriate; there should be no leftover placeholder text for players to delete manually.
+- Ensure each prompt either presents interactive checkboxes or a `[form]` so players are never typing on blank space; add visual guides only when necessary.
 - Run `python tools/check_docs.py` before committing to catch duplicate paperwork or missing stamp sections.
 - Proofread for length limits on `[head]` tags and trim wording until they meet the character caps.

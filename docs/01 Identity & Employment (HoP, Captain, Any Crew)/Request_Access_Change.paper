@@ -1,0 +1,57 @@
+# Request Access Change
+[logo]
+
+
+[center][head=1][color=#003366][bold]ACCESS CHANGE REQUEST[/bold][/color][/head][/center]
+────────────────────────────────────────
+
+[head=2]Crew Details[/head]
+
+[bold]Name:[/bold] [signature]
+
+[head=2]Requested Adjustment[/head]
+
+[bold]Change type:[/bold]
+[check] Add – grant the following accesses in addition to existing ones
+[check] Remove – revoke the following accesses from current ID
+[check] Set – replace all current accesses with only those selected below
+
+[bold]Access involved:[/bold]
+[check] Bridge / Command
+[check] Engineering Maintenance
+[check] Research Labs
+[check] Medical Treatment Areas
+[check] Security Restricted
+[check] Cargo Logistics
+[check] Service Facilities
+[check] EVA / External Airlocks
+[check] Vault / Secure Storage
+[check] Other: [form]
+
+[bold]Operational justification:[/bold]
+[form]
+
+[bold]Time limit (if temporary):[/bold]
+[form]
+
+[head=2]Authorizations[/head]
+
+[bold]Required Stamps/Signatures:[/bold]
+[bullet] Head of Personnel
+[bullet] Head of Department holding requested access
+[bullet] Captain (if Command, Armory, or Vault access requested)
+
+────────────────────────────────────────
+[italic]Filed under Station Records - Valid for duration of shift[/italic]
+[color=#aaaaaa][italic]
+NOTICE: Elevated access is a privilege, not a right. All additional accesses granted are subject to immediate review and revocation by Command or Security. Misrepresentation of need, misuse of granted access, or falsification of this request constitutes a Class-B corporate offense and may result in demotion, dismissal, or prosecution under NanoTrasen Corporate Law.
+[/italic][/color]
+
+
+
+
+
+
+
+
+[color=#aaaaaa][italic]Place for Signatures / Stamps[/italic][/color]
