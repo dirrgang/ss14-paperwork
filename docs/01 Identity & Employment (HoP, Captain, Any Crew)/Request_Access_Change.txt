@@ -6,8 +6,11 @@
 ────────────────────────────────────────
 [head=2][color=#003366][bold]REQUEST[/bold][/color][/head] – [color=#0055aa][bolditalic]ACCESS MODIFICATION[/bolditalic][/color]
 ────────────────────────────────────────
-[head=3]Crew Details[/head]
-[bold]Name:[/bold] [signature]
+[center][color=#aaaaaa][italic]Formal request for the alteration of accesses granted within a given ID[/italic][/color][/center]
+
+[head=2]Request Details[/head]
+[bold]Date & Time:[/bold] [form]
+[bold]Requesting Individual:[/bold] [signature]
 
 [head=3]Requested Adjustment[/head]
 [bold]Change type:[/bold]

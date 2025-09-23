@@ -2,14 +2,15 @@
 [logo]
 
 
-[head=1]STATION COMMAND[/head]
+[head=1][color=#1b67a5]STATION COMMAND[/head][/color]
 ────────────────────────────────────────
 [head=2][color=#003366][bold]REQUEST[/bold][/color][/head] – [color=#0055aa][bolditalic]ID CARD REPLACEMENT[/bolditalic][/color]
 ────────────────────────────────────────
+[center][color=#aaaaaa][italic]Formal application for the issuance of a replacement NanoTrasen identification card, subject to departmental approval, security verification, and corporate archival processing.[/italic][/color][/center]
 
-[head=3]Request Details[/head]
-
-[bold]Name:[/bold] [signature]
+[head=2]Request Details[/head]
+[bold]Date & Time:[/bold] [form]
+[bold]Requesting Individual:[/bold] [signature]
 
 [bold]Reason:[/bold]
 [check] Lost ID
@@ -20,7 +21,7 @@
 [bold]Last seen location of old ID:[/bold]
 [form]
 
-[head=3]Authorization[/head]
+[head=2]Authorization[/head]
 [bold]Required Stamps/Signatures:[/bold]
 [bullet] Head of Personnel
 [bullet] Head of Requested Department

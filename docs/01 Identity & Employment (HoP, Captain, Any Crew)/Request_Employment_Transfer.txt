@@ -2,14 +2,15 @@
 [logo]
 
 
-[head=1]STATION COMMAND[/head]
+[head=1][color=#1b67a5]STATION COMMAND[/head][/color]
 ────────────────────────────────────────
 [head=2][color=#003366][bold]REQUEST[/bold][/color][/head] – [color=#0055aa][bolditalic]JOB REALLOCATION[/bolditalic][/color]
 ────────────────────────────────────────
+[center][color=#aaaaaa][italic]Formal request for the (re)allocation of a work position on station[/italic][/color][/center]
 
-[head=3]Applicant Details[/head]
-
-[bold]Name:[/bold] [form]
+[head=2]Request Details[/head]
+[bold]Date & Time:[/bold] [form]
+[bold]Requesting Individual:[/bold] [signature]
 
 [bold]Request Type:[/bold]
 [check] New Employment (Unassigned)

@@ -8,6 +8,10 @@
 ────────────────────────────────────────
 [center][color=#aaaaaa][italic]Issued under NanoTrasen Command Protocols – Confers Acting Captain authority in absence of a Station Captain[/italic][/color][/center]
 
+[head=2]Details[/head]
+[bold]Date & Time:[/bold] [form]
+[bold]Documenting Individual:[/bold] [signature]
+
 [head=2]Situation[/head]
 [check] Captain absent at shift start
 [check] Captain incapacitated / missing

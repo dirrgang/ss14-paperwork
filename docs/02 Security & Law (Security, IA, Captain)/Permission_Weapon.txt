@@ -8,12 +8,10 @@
 ────────────────────────────────────────
 [center][color=#aaaaaa][italic]Issued under authority of the NanoTrasen Security Department – For controlled distribution of restricted arms[/italic][/color][/center]
 
-[head=2]Authorization Details[/head]
+[head=2]Permit Details[/head]
 [bold]Date & Time Issued:[/bold] [form]
 [bold]Authorizing Official:[/bold] [signature]
-
-[head=2]Authorized Individual[/head]
-[bold]Name:[/bold] [form]
+[bold]Authorized Individual:[/bold] [form]
 
 [head=2]Weapon Type[/head]
 [check] Sidearm (pistol, revolver)

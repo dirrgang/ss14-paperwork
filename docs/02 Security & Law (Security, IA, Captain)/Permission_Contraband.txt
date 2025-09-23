@@ -6,47 +6,45 @@
 ────────────────────────────────────────
 [head=2][color=#003366][bold]PERMIT[/bold][/color][/head] – [color=#0055aa][bolditalic]CONTRABAND POSSESSION[/bolditalic][/color]
 ────────────────────────────────────────
+[center][color=#aaaaaa][italic]Issued under authority of the NanoTrasen Security Department – Authorizes conditional possession of restricted items[/italic][/color][/center]
 
+[bold]Time & Date:[/bold] [form]
 
-[center][head=1][color=cb0000][bold]CONTRABAND POSSESSION PERMIT[/bold][/color][/head][/center]  
-[center][color=#aaaaaa][italic]Issued under authority of the NanoTrasen Security Department – Authorizes conditional possession of restricted items[/italic][/color][/center]  
-────────────────────────────────────────
+[head=2]Permit Details[/head]
+[bold]Date & Time Issued:[/bold] [form]
+[bold]Authorizing Official:[/bold] [signature]
+[bold]Authorized Individual:[/bold] [form]
 
-[head=2]Permit Holder[/head]  
-[bold]Name:[/bold] [form]  
-[bold]ID / Role:[/bold] [form]  
-[bold]Physical Description:[/bold] [form]
-
-[head=2]Authorized Item(s)[/head]  
-[bold]Item Name / Description:[/bold] [form]  
-[bold]Serial Number / Unique Marks (if any):[/bold] [form]  
+[head=2]Authorized Item(s)[/head]
+[bold]Item Name / Description:[/bold] [form]
+[bold]Serial Number / Unique Marks (if any):[/bold] [form]
 [bold]Storage / Location (where item must be kept):[/bold] [form]
 [check] On person
 [check] Lockable Locker
 
-[head=2]Reason for Authorization[/head]  
-[check] Research / Testing (Science Dept.)  
-[check] Religious / Cultural Exception (Chapel)  
-[check] Medical Application  
-[check] Security Training Exercise  
-[check] Command Directive  
+[head=2]Reason for Authorization[/head]
+[check] Research / Testing (Science Dept.)
+[check] Religious / Cultural Exception (Chapel)
+[check] Medical Application
+[check] Security Training Exercise
+[check] Command Directive
 [check] Other: [form]
 
-[head=2]Conditions of Possession & Validity[/head]  
-[check] Item must remain within designated area: [form]  
-[check] Item must be secured when not in use  
-[check] Holder must present permit on request  
-[check] Permit valid until revoked / replaced (state conditions below)  
+[head=2]Conditions of Possession & Validity[/head]
+[check] Item must remain within designated area: [form]
+[check] Item must be secured when not in use
+[check] Holder must present permit on request
+[check] Permit valid until revoked / replaced (state conditions below)
 [bold]Validity / Special Conditions:[/bold] [form]
 
-[head=2]Signatures[/head]  
-[bold]Authorizing Official (name & position):[/bold] [signature]  
-[bold]Permit Holder Acknowledgement:[/bold] [signature]  
+[head=2]Signatures[/head]
+[bold]Authorizing Official (name & position):[/bold] [signature]
+[bold]Permit Holder Acknowledgement:[/bold] [signature]
 [bold]Witness / Security Clerk:[/bold] [signature]
 
-────────────────────────────────────────  
+────────────────────────────────────────
 [color=#aaaaaa][italic]
 NOTICE: Unauthorized use, transfer, or modification of permitted items remains a violation of Space Law. This permit covers only the individual and conditions listed above; violations will be referred to Internal Affairs.
-[/italic][/color]  
+[/italic][/color]
 
 [color=#aaaaaa][italic]Place for Stamps / Additional Signatures[/italic][/color]

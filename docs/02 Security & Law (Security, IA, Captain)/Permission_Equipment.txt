@@ -7,39 +7,43 @@
 ────────────────────────────────────────
 [center][color=#aaaaaa][italic]Issued under authority of the NanoTrasen Security Department – Conditional use of restricted or hazardous equipment[/italic][/color][/center]
 
-[head=2]Authorized Individual[/head]  
-[bold]Name:[/bold] [form]  
+[bold]Time & Date:[/bold] [form]
 
-[head=2]Equipment Details[/head]  
-[bold]Item / Type:[/bold] [form]  
-[check] Protective Gear (armor, hardsuit)  
-[check] Specialized Tool (R&D, engineering, medical)  
-[check] Hazardous Device (shields, explosives, prototypes)  
-[check] Other: [form]  
-[bold]Serial Number / Markings:[/bold] [form]  
+[head=2]Permit Details[/head]
+[bold]Date & Time Issued:[/bold] [form]
+[bold]Authorizing Official:[/bold] [signature]
+[bold]Authorized Individual:[/bold] [form]
 
-[head=2]Reason for Authorization[/head]  
-[check] Assigned Duty Requirement  
-[check] Research / Testing  
-[check] Maintenance / Repair  
-[check] Command Directive  
+[head=2]Equipment Details[/head]
+[bold]Item / Type:[/bold] [form]
+[check] Protective Gear (armor, hardsuit)
+[check] Specialized Tool (R&D, engineering, medical)
+[check] Hazardous Device (shields, explosives, prototypes)
+[check] Other: [form]
+[bold]Serial Number / Markings:[/bold] [form]
+
+[head=2]Reason for Authorization[/head]
+[check] Assigned Duty Requirement
+[check] Research / Testing
+[check] Maintenance / Repair
+[check] Command Directive
 [check] Other: [form]
 
-[head=2]Conditions of Use[/head]  
-[check] Use only while on duty  
-[check] Keep equipment secured when not in use  
-[check] Return to issuing department after task  
-[check] Report any malfunctions or incidents  
+[head=2]Conditions of Use[/head]
+[check] Use only while on duty
+[check] Keep equipment secured when not in use
+[check] Return to issuing department after task
+[check] Report any malfunctions or incidents
 [check] Other: [form]
 
 [bold]Required Stamps/Signatures:[/bold]
 [bullet] Head of Security
 [bullet] Head of Authorized Individual's Department (or equivalent)
 
-────────────────────────────────────────  
+────────────────────────────────────────
 [color=#aaaaaa][italic]
 NOTICE: Unauthorized use or transfer of issued equipment remains a violation of Space Law. This authorization applies only to the individual and conditions listed above.
-[/italic][/color]  
+[/italic][/color]
 
 
 
