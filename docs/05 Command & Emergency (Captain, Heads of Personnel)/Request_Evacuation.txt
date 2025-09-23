@@ -1,0 +1,43 @@
+# Evacuation Request
+[logo]
+
+
+[center][head=1][color=1b67a5][bold]CENTRAL COMMAND EVACUATION REQUEST[/bold][/color][/head][/center]  
+[center][color=#aaaaaa][italic]Formal request for early evacuation or crew exchange prior to the scheduled shift change[/italic][/color][/center]  
+────────────────────────────────────────
+
+[head=2]Request Origin[/head]  
+[bold]Station Name / ID:[/bold] [form]  
+[bold]Requesting Officer Name:[/bold] [signature]
+
+[head=2]Reason for Request[/head]  
+[check] Containment loss of singularity / Tesla engine  
+[check] Station power grid collapse beyond recovery  
+[check] Irreversible atmospheric integrity failure
+[check] Biological or anomalous outbreak beyond containment  
+[check] Command unable to maintain control of station
+[check] Other: [form]
+
+[head=2]Evacuation Type Requested[/head]  
+[check] Full station evacuation  
+[check] Partial evacuation (specify critical personnel/departments): [form]  
+[check] Crew exchange shuttle only  
+[check] Other: [form]
+
+[head=2]Additional Notes to Central Command[/head]  
+[form]
+
+────────────────────────────────────────  
+[color=#aaaaaa][italic]
+NOTICE: Early evacuation is only authorized when station integrity is no longer recoverable by available personnel. This request is subject to Central Command confirmation before shuttle dispatch.
+[/italic][/color]  
+
+[color=#aaaaaa][italic]Required: Authorization by available Command staff via signatures and/or departmental stamps below.[/italic][/color]  
+
+────────────────────────────────────────  
+
+
+
+
+
+[italic]Place for Command Signatures / Stamps[/italic]

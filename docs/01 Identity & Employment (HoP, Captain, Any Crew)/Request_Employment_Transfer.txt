@@ -1,8 +1,8 @@
-# Employment/Transfer Request Form
+# Job Reallocation Form
 [logo]
 
 
-[center][head=1][color=#003366][bold]REQUEST FOR EMPLOYMENT/TRANSFER[/bold][/color][/head][/center]
+[center][head=1][color=#003366][bold]JOB REALLOCATION FORM[/bold][/color][/head][/center]
 ────────────────────────────────────────
 
 [head=2]Applicant Details[/head]
@@ -14,6 +14,10 @@
 [check] Transfer to Another Department
 [check] Promotion within Department
 [check] Other: [form]
+
+[bold]This Promotion is[/bold]
+[check] Permanent
+[check] Temporary until [form]
 
 [bold]Applying for Department:[/bold]
 [check] Engineering
