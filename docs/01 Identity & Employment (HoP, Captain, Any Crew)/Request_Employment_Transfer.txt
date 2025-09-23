@@ -2,10 +2,12 @@
 [logo]
 
 
-[center][head=1][color=#003366][bold]JOB REALLOCATION FORM[/bold][/color][/head][/center]
+[head=1]STATION COMMAND[/head]
+────────────────────────────────────────
+[head=2][color=#003366][bold]REQUEST[/bold][/color][/head] – [color=#0055aa][bolditalic]JOB REALLOCATION[/bolditalic][/color]
 ────────────────────────────────────────
 
-[head=2]Applicant Details[/head]
+[head=3]Applicant Details[/head]
 
 [bold]Name:[/bold] [form]
 
@@ -32,7 +34,7 @@
 
 [bold]Requested Position Title:[/bold] [form]
 
-[head=2]Authorization[/head]
+[head=3]Authorization[/head]
 [bold]Required Stamps/Signatures:[/bold]
 [bullet] Head of Personnel
 [bullet] Head of Requested Department

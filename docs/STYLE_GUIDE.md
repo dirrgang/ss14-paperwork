@@ -1,6 +1,3 @@
----
-Foo:
----
 # Paperwork Style Guide
 
 ## Core Principles
@@ -8,7 +5,7 @@ Foo:
 - Begin every document with `# Title` so tooling can surface the display name.
 - Lead with prompts that can be satisfied by ticking a box; only ask for free-form writing when no structured option fits.
 - Assume the document will be filled out in-game; keep prompts short and end them with a colon.
-- Use placeholders so crew interact with fields without editing the document (`[form]` for typed input, `[signature]` for automatic signatures, `[check]` for checkboxes).
+- Use placeholders so crew interact with fields without editing the document (`[form]` for typed input, `[signature]` for an autofill of the character's full name and position, `[check]` for checkboxes).
 - Reserve decorative elements for official paperwork (department logos, separators) and keep general-use forms minimal.
 - Include an explicit stamp area (`[italic]Place for stamps[/italic]`) whenever the document needs to be validated.
 - Prefer clear, modern language; avoid lore that contradicts the upstream SS14 setting.
@@ -56,21 +53,24 @@ Placeholders can sit on the same line as a prompt or on the following line when 
 ## Player Input Styling
 
 - Use `[form]` on the same line as short responses (Name, Position) and place it on a new line when you expect a paragraph.
-- Append `[check]` at the end of each checkbox label so it toggles cleanly; align them in columns with spaces when you want a wider layout.
-- Drop in `[signature]` wherever a signature is required. For multi-party signatures, repeat the prompt plus `[signature]` on separate lines. You can also use `[signature]` to speed up adding the character's name in printed forms. However, forms should ideally be written in such a way, that the name should only be filled out once, at the top.
+- Drop in `[signature]` wherever the full name and position of the character writing the document is required.
+- Signatures and stamps make the document read-only. That means, a document must not require any further input after a signature or stamp is applied.
+- You can also use `[signature]` to speed up adding the character's name in printed forms. However, forms should ideally be written in such a way, that the name should only be filled out once, at the top.
 
 Example:
 
 ```
-Name: [form]
-Department:
+Name and Position: [signature]
+
+Department Access Needed:
+[check] Command        [check] Science
 [check] Engineering    [check] Medical [check]
 [check] Security       [check] Other: [form]
 
 Reason for request:
 [form]
 
-Signature: [signature]
+[italic]Place for stamps[/italic]
 ```
 
 ## Headings
@@ -88,15 +88,61 @@ c96dbf Science
 5b97bc Medical
 b18644 Cargo
 f39f27 Engineering
-ff2fff Clown (how special)
+ff2fff Clown
 9fed58 Food Service (Bartender/Chef/Botany/Service)
 6e6e6e Passenger
 1b67a5 Command
-002aaf Player Input (Blue Ink)
 009100 CentComm
 134975 NanoTrasen
 ff0000 Syndicate
 ```
+
+## Document Types
+
+| **Prefix**    | **Type**      | **Purpose**                                   | **Direction**   | **Examples**                                                         |
+| ------------- | ------------- | --------------------------------------------- | --------------- | -------------------------------------------------------------------- |
+| `Report_`     | Report        | Record facts, events, conditions              | Informational   | Incident Report, Arrest Report, SITREP, Morgue Report                |
+| `Request_`    | Request       | Ask for approval, resources, or authorization | Upward-facing   | ID Replacement Request, Access Change Request, ERT Request           |
+| `Order_`      | Order         | Issue binding directive                       | Downward-facing | Execution Order, Access Revocation Order, Parole Order               |
+| `Permission_` | Permission    | Grant rights/privileges normally restricted   | Downward-facing | Weapon Carry Permission, Search Permission, Body Disposal Permission |
+| `Statement_`  | Statement     | Declare personal status or intent             | Declarative     | Employment Statement, Resignation Statement, Interim Appointment     |
+| `Complaint_`  | Complaint     | File grievances or allege wrongdoing          | Upward-facing   | Labor Violation Complaint, Offense Complaint                         |
+| `Form_`       | Form          | General-purpose, neutral paperwork            | Neutral         | Medical Consent Form, Visitor Registration Form, Lost & Found Form   |
+| `Comm_`       | Communication | Official correspondence or memos              | Flexible        | CentComm Communication, Internal Memo                                |
+| `Notice_`     | Notice        | Provide warnings or acknowledgments           | Outward-facing  | Trespass Notice, Removal Notice                                      |
+| `Misc_`       | Miscellaneous | Anything not covered by the above             | Variable        | Special event paperwork, experimental docs                           |
+
+### Naming Convention
+
+- **Filenames** must follow the pattern:
+
+  ```
+  <Type>_<Descriptor>
+  ```
+
+  Example: `Report_Incident_General.txt`, `Request_ID_Replacement.txt`
+
+- **Header** must include both **authority** and **type**:
+
+  ```
+  [head=2][color=#003366][bold]STATION COMMAND DOCUMENT – REQUEST[/bold][/color][/head]
+  [center][color=#0055aa][bolditalic]ID CARD REPLACEMENT REQUEST[/bolditalic][/color][/center]
+  ```
+
+- **Descriptors** should be concise, CamelCase or underscores. Avoid vague names like `Form1` or `Request_Something`.
+
+### Practical Tip
+
+- **If the document is informational** → `Report`.
+- **If it asks for approval** → `Request`.
+- **If it commands action** → `Order`.
+- **If it grants rights** → `Permission`.
+- **If it’s a personal declaration** → `Statement`.
+- **If it alleges wrongdoing** → `Complaint`.
+- **If it’s neutral paperwork** → `Form`.
+- **If it’s correspondence** → `Comm`.
+- **If it’s a warning** → `Notice`.
+- **If nothing fits** → `Misc`.
 
 ## Pre-submission Checks
 

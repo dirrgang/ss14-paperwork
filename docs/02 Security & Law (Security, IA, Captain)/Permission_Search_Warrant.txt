@@ -2,42 +2,44 @@
 [logo]
 
 
-[center][head=1][color=cb0000][bold]SECURITY SEARCH WARRANT[/bold][/color][/head][/center]  
-[center][color=#aaaaaa][italic]Authorized by the NanoTrasen Security Department – Use only with Command or IA approval[/italic][/color][/center]  
+[head=1][color=#cb0000]SECURITY DEPARTMENT[/head][/color]
 ────────────────────────────────────────
+[head=2][color=#003366][bold]PERMIT[/bold][/color][/head] – [color=#0055aa][bolditalic]SEARCH WARRANT[/bolditalic][/color]
+────────────────────────────────────────
+[center][color=#aaaaaa][italic]Authorized by the NanoTrasen Security Department – Use only with Command or IA approval[/italic][/color][/center]
 
-[head=2]Warrant Details[/head]  
-[bold]Date & Time Issued:[/bold] [form]  
+[head=3]Warrant Details[/head]
+[bold]Date & Time Issued:[/bold] [form]
 [bold]Authorizing Official:[/bold] [form]
 
 [bold]Subject Name:[/bold] [form]
 [bold]Physical Description:[/bold] [form]
 
-[head=2]Search Authorization[/head]  
-[check] Personal belongings / backpack  
-[check] Assigned quarters / dormitory  
-[check] Workplace / departmental area  
-[check] Storage locker / containers  
+[head=3]Search Authorization[/head]
+[check] Personal belongings / backpack
+[check] Assigned quarters / dormitory
+[check] Workplace / departmental area
+[check] Storage locker / containers
 [check] Other: [form]
 
-[head=2]Reason for Warrant[/head]  
-[bold]Suspected violations / contraband:[/bold]  
+[head=3]Reason for Warrant[/head]
+[bold]Suspected violations / contraband:[/bold]
 [form]
 
-[head=2]Limitations & Conditions[/head]  
-[check] Subject must be present during search  
-[check] Command staff oversight required  
-[check] IA observer present  
+[head=3]Limitations & Conditions[/head]
+[check] Subject must be present during search
+[check] Command staff oversight required
+[check] IA observer present
 [check] Other: [form]
 
-[head=2]Authorization[/head]
+[head=3]Authorization[/head]
 [bold]Required Stamps/Signatures:[/bold]
 [bullet] Head of Security OR Warden
 
-────────────────────────────────────────  
+────────────────────────────────────────
 [color=#aaaaaa][italic]
 NOTICE: Unauthorized or falsified searches may result in disciplinary action and review by Internal Affairs. This warrant is valid only for the time and location specified.
-[/italic][/color]  
+[/italic][/color]
 
 
 

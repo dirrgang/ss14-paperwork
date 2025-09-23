@@ -1,10 +1,11 @@
 # Equipment Authorization
-[logo]
 
 
-[center][head=1][color=cb0000][bold]EQUIPMENT USE AUTHORIZATION[/bold][/color][/head][/center]  
-[center][color=#aaaaaa][italic]Issued under authority of the NanoTrasen Security Department – Conditional use of restricted or hazardous equipment[/italic][/color][/center]  
+[head=1][color=#cb0000]SECURITY DEPARTMENT[/head][/color]
 ────────────────────────────────────────
+[head=2][color=#003366][bold]PERMIT[/bold][/color][/head] – [color=#0055aa][bolditalic]USE OF EQUIPMENT[/bolditalic][/color]
+────────────────────────────────────────
+[center][color=#aaaaaa][italic]Issued under authority of the NanoTrasen Security Department – Conditional use of restricted or hazardous equipment[/italic][/color][/center]
 
 [head=2]Authorized Individual[/head]  
 [bold]Name:[/bold] [form]  

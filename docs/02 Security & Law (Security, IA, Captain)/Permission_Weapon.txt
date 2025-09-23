@@ -2,9 +2,11 @@
 [logo]
 
 
-[center][head=1][color=cb0000][bold]WEAPON AUTHORIZATION[/bold][/color][/head][/center]
-[center][color=#aaaaaa][italic]Issued under authority of the NanoTrasen Security Department – For controlled distribution of restricted arms[/italic][/color][/center]
+[head=1][color=#cb0000]SECURITY DEPARTMENT[/head][/color]
 ────────────────────────────────────────
+[head=2][color=#003366][bold]PERMIT[/bold][/color][/head] – [color=#0055aa][bolditalic]WEAPON[/bolditalic][/color]
+────────────────────────────────────────
+[center][color=#aaaaaa][italic]Issued under authority of the NanoTrasen Security Department – For controlled distribution of restricted arms[/italic][/color][/center]
 
 [head=2]Authorization Details[/head]
 [bold]Date & Time Issued:[/bold] [form]

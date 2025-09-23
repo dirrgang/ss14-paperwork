@@ -2,6 +2,12 @@
 [logo]
 
 
+[head=1][color=#cb0000]SECURITY DEPARTMENT[/head][/color]
+────────────────────────────────────────
+[head=2][color=#003366][bold]PERMIT[/bold][/color][/head] – [color=#0055aa][bolditalic]CONTRABAND POSSESSION[/bolditalic][/color]
+────────────────────────────────────────
+
+
 [center][head=1][color=cb0000][bold]CONTRABAND POSSESSION PERMIT[/bold][/color][/head][/center]  
 [center][color=#aaaaaa][italic]Issued under authority of the NanoTrasen Security Department – Authorizes conditional possession of restricted items[/italic][/color][/center]  
 ────────────────────────────────────────
