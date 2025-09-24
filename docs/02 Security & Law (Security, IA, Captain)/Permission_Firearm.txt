@@ -4,14 +4,17 @@
 
 [head=1][color=#cb0000]SECURITY DEPARTMENT[/head][/color]
 ────────────────────────────────────────
-[head=2][color=#003366][bold]PERMIT[/bold][/color][/head] – [color=#0055aa][bolditalic]WEAPON[/bolditalic][/color]
+[head=2][color=#003366][bold]PERMIT[/bold][/color][/head] – [color=#0055aa][bolditalic]FIREARM[/bolditalic][/color]
 ────────────────────────────────────────
-[center][color=#aaaaaa][italic]Issued under authority of the NanoTrasen Security Department – For controlled distribution of restricted arms[/italic][/color][/center]
+[center][color=#aaaaaa][italic]For routine issue of sidearms, longarms and standard energy weapons. Quick armory handover form.[/italic][/color][/center]
 
 [head=2]Permit Details[/head]
 [bold]Date & Time Issued:[/bold] [form]
 [bold]Authorizing Official:[/bold] [signature]
 [bold]Authorized Individual:[/bold] [form]
+
+[head=2]Weapon Details[/head]
+[bold]Weapon Name / Model:[/bold] [form]
 
 [head=2]Weapon Type[/head]
 [check] Sidearm (pistol, revolver)
@@ -20,16 +23,12 @@
 [check] Heavy weapon (carbine, LMG, launcher)
 [check] Other: [form]
 
-[head=2]Weapon Details[/head]
-[bold]Weapon Name / Model:[/bold] [form]
-[bold]Caliber / Energy Type:[/bold] [form]
-
 [head=2]Authorized Ammunition[/head]
 [check] Hollow-Point (HP)
 [check] Soft-Point (SP)
 [check] Full Metal Jacket (FMJ)
 [check] Non-Lethal (rubber, beanbag, disruptor, taser, etc.)
-[check] N/A (Energy, etc.)
+[check] N/A
 [check] Other: [form]
 
 [head=2]Permitted Ammo Allotment[/head]
@@ -46,17 +45,13 @@
 [check] Must be surrendered after shift / incident
 [check] Other: [form]
 
-[head=2]Accountability & Liability[/head]
-[check] Replacement / Damage Liability
-[check] Return By (date/time): [form]
-
 [head=2]Authorization[/head]
 [bold]Required Stamps/Signatures:[/bold]
 [bullet] Warden or above
 
 ────────────────────────────────────────
 [color=#aaaaaa][italic]
-NOTICE: Unauthorized possession or misuse of restricted weaponry is a violation of Corporate Law. All issued arms remain property of NanoTrasen and must be returned upon request.
+NOTICE: Unauthorized possession or misuse of restricted weaponry is a violation of Corporate Law. All issued arms remain property of NanoTrasen and must be returned upon request. Weapon and ammo MAY be provided by the security department.
 [/italic][/color]
 
 

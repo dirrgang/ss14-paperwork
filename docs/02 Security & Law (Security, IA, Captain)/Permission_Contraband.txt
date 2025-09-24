@@ -21,6 +21,7 @@
 [bold]Storage / Location (where item must be kept):[/bold] [form]
 [check] On person
 [check] Lockable Locker
+[check] Other: [form]
 
 [head=2]Reason for Authorization[/head]
 [check] Research / Testing (Science Dept.)
@@ -31,16 +32,15 @@
 [check] Other: [form]
 
 [head=2]Conditions of Possession & Validity[/head]
-[check] Item must remain within designated area: [form]
+[check] Item restricted to specified area: [form]
 [check] Item must be secured when not in use
 [check] Holder must present permit on request
 [check] Permit valid until revoked / replaced (state conditions below)
 [bold]Validity / Special Conditions:[/bold] [form]
 
-[head=2]Signatures[/head]
-[bold]Authorizing Official (name & position):[/bold] [signature]
-[bold]Permit Holder Acknowledgement:[/bold] [signature]
-[bold]Witness / Security Clerk:[/bold] [signature]
+[head=2]Authorization[/head]
+[bold]Required Stamps/Signatures:[/bold]
+[bullet] Warden or above
 
 ────────────────────────────────────────
 [color=#aaaaaa][italic]
