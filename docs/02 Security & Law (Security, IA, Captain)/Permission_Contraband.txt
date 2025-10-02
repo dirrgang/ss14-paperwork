@@ -8,8 +8,6 @@
 ────────────────────────────────────────
 [center][color=#aaaaaa][italic]Issued under authority of the NanoTrasen Security Department – Authorizes conditional possession of restricted items[/italic][/color][/center]
 
-[bold]Time & Date:[/bold] [form]
-
 [head=2]Permit Details[/head]
 [bold]Date & Time Issued:[/bold] [form]
 [bold]Authorizing Official:[/bold] [signature]

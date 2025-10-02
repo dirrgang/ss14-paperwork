@@ -1,0 +1,49 @@
+# Sentience Acknowledgment
+[logo]
+
+
+[head=1][color=#1b67a5]STATION COMMAND[/color][/head]
+────────────────────────────────────────
+[head=2][color=#003366][bold]STATEMENT[/bold][/color][/head] – [color=#0055aa][bolditalic]SENTIENCE ACKNOWLEDGMENT[/bolditalic][/color]
+────────────────────────────────────────
+[center][color=#aaaaaa][italic]Formal declaration acknowledging the full sentience of a being or object, granting rights and protections under NanoTrasen Corporate Law and Space Law[/italic][/color][/center]
+
+[head=2]Subject Information[/head]
+[bold]Designation / Name:[/bold] [form]
+[bold]Species / Type (biological, synthetic, anomalous):[/bold] [form]
+
+[head=2]Observed Capabilities[/head]
+[check] Demonstrated reasoning / problem-solving ability
+[check] Self-awareness / independent will
+[check] Capacity for social interaction / empathy
+[check] Communication in recognizable language
+[check] Memory / learning retention
+[check] Moral or ethical decision-making
+[check] Other: [form]
+
+[bold]Summary of Observations:[/bold]
+[form]
+
+[head=2]Rights & Status Granted[/head]
+[check] Recognition as sentient being under Space Law
+[check] Protection from unlawful harm or destruction
+[check] Eligibility for crew employment / assignment
+[check] Restricted rights only (specify): [form]
+[check] Other: [form]
+
+[head=2]Authorization[/head]
+[bold]Required Stamps/Signatures:[/bold]
+[bullet] Captain
+[bullet] Relevant Head of Department (Science/Medical/AI, if applicable)
+[bullet] Internal Affairs Agent (if available)
+
+────────────────────────────────────────
+[color=#aaaaaa][italic]
+NOTICE: Acknowledging sentience extends corporate rights and protections to the subject, making destruction or mistreatment a Class-A violation. Command assumes liability for consequences arising from this declaration. Status may only be revoked by Central Command or corporate tribunal.
+[/italic][/color]
+
+
+
+
+
+[italic]Place for Command / Departmental Stamps and Signatures[/italic]
