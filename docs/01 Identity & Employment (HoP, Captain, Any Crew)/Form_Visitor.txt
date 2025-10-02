@@ -1,0 +1,50 @@
+# Visitor Registration Form
+[logo]
+
+
+[head=1][color=#1b67a5]STATION COMMAND[/color][/head]
+────────────────────────────────────────
+[head=2][color=#003366][bold]FORM[/bold][/color][/head] – [color=#0055aa][bolditalic]VISITOR REGISTRATION[/bolditalic][/color]
+────────────────────────────────────────
+[center][color=#aaaaaa][italic]Required documentation for non-crew personnel arriving aboard NanoTrasen facilities[/italic][/color][/center]
+
+[head=2]Visitor Information[/head]
+[bold]Date & Time of Arrival:[/bold] [form]
+[bold]Visitor Name:[/bold] [form]
+[bold]Origin (ship / colony / station):[/bold] [form]
+[bold]Declared Purpose of Visit:[/bold]
+[check] Business / Corporate Representative
+[check] Research / Science Collaboration
+[check] Inspection / Audit
+[check] Emergency Docking / Refugee
+[check] Personal Visit
+[check] Other: [form]
+
+[head=2]Sponsorship & Access[/head]
+[bold]Station Sponsor / Contact (crew member):[/bold] [form]
+[bold]Required Access:[/bold]
+[check] Public Areas only
+[check] Specific Department (requires HoP/Head approval): [form]
+[check] Other: [form]
+
+[head=2]Security Verification[/head]
+[check] Visitor searched for contraband
+[check] ID verified / temporary pass issued
+[check] Items declared / logged
+[check] Cleared for entry
+
+[head=2]Authorization[/head]
+[bold]Required Stamps/Signatures:[/bold]
+[bullet] Head of Personnel (or Captain)
+[bullet] Head of Security (if armed escort or restricted access required)
+
+────────────────────────────────────────
+[color=#aaaaaa][italic]
+NOTICE: Visitors remain subject to NanoTrasen Corporate Regulations and Station Command authority for the duration of their stay. All violations will be referred to Security and may result in immediate revocation of docking privileges.
+[/italic][/color]
+
+
+
+
+
+[italic]Place for Stamps / Signatures[/italic]

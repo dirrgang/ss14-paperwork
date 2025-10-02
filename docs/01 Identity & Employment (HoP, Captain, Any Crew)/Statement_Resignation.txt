@@ -1,0 +1,34 @@
+# Statement of Resignation
+[logo]
+
+
+[head=1][color=#1b67a5]STATION COMMAND[/color][/head]
+────────────────────────────────────────
+[head=2][color=#003366][bold]STATEMENT[/bold][/color][/head] – [color=#0055aa][bolditalic]RESIGNATION[/bolditalic][/color]
+────────────────────────────────────────
+[center][color=#aaaaaa][italic]Formal declaration of voluntary resignation from active duties aboard the station[/italic][/color][/center]
+
+[head=2]Resignation Details[/head]
+[bold]Date & Time:[/bold] [form]
+[bold]Resigning Individual:[/bold] [signature]
+[bold]Current Department / Position:[/bold] [form]
+
+[head=2]Reason for Resignation[/head]
+[check] Personal choice
+[check] Medical grounds
+[check] Conflict of interest
+[check] Security / disciplinary concerns
+[check] Other: [form]
+
+[bold]Optional Statement (to be recorded in station archives):[/bold]
+[form]
+
+────────────────────────────────────────
+[color=#aaaaaa][italic]
+NOTICE: Submission of this form constitutes a voluntary resignation from all duties, authority, and privileges associated with the listed position. The individual remains bound by corporate law and policy until officially transferred off-station or reassigned.
+[/italic][/color]
+
+
+
+
+[color=#aaaaaa][italic]Place for Command Signatures / Stamps (HoP or Captain required)[/italic][/color]

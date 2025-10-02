@@ -1,0 +1,55 @@
+# Internal Affairs Report
+[logo]
+
+
+[head=1][color=#134975]INTERNAL AFFAIRS[/color][/head]
+────────────────────────────────────────
+[head=2][color=#003366][bold]REPORT[/bold][/color][/head] – [color=#0055aa][bolditalic]INVESTIGATION FINDINGS[/bolditalic][/color]
+────────────────────────────────────────
+[center][color=#aaaaaa][italic]Filed by a certified Internal Affairs Agent documenting the results of an inquiry, audit, or complaint investigation[/italic][/color][/center]
+
+[head=2]Report Information[/head]
+[bold]Date & Time:[/bold] [form]  
+[bold]Filed By (IAA):[/bold] [signature]  
+[bold]Reference Complaint / Case ID:[/bold] [form]  
+
+[head=2]Investigation Summary[/head]
+[bold]Subject(s) of Investigation:[/bold] [form]  
+[bold]Alleged Violations / Concerns:[/bold] [form]  
+
+[bold]Evidence Collected:[/bold]  
+[form]  
+
+[bold]Witness Testimony / Interviews:[/bold]  
+[form]  
+
+[head=2]Findings[/head]
+[check] Allegations substantiated – violation confirmed  
+[check] Allegations unsubstantiated – insufficient evidence  
+[check] Allegations false / malicious complaint  
+[check] Other outcome: [form]  
+
+[bold]Summary of Findings:[/bold]  
+[form]  
+
+[head=2]Recommendations[/head]
+[check] No action required – case closed  
+[check] Disciplinary action recommended  
+[check] Reassignment of individual(s) recommended  
+[check] Training / corrective measures recommended  
+[check] Escalation to Central Command  
+[check] Other: [form]  
+
+[bold]Notes for Command / Security:[/bold]  
+[form]  
+
+────────────────────────────────────────
+[color=#aaaaaa][italic]
+NOTICE: This document is part of the official Internal Affairs record. It must be archived with Station Command and forwarded to Central Command upon request. Interference with an IAA investigation or falsification of reports is a Class-B corporate offense under NanoTrasen Regulations.
+[/italic][/color]
+
+
+
+
+
+[italic]Place for IAA Stamp / Signature[/italic]

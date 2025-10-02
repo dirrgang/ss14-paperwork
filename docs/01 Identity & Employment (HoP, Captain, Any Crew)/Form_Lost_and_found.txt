@@ -1,0 +1,41 @@
+# Lost & Found Form
+[logo]
+
+
+[head=1][color=#1b67a5]STATION COMMAND[/color][/head]
+────────────────────────────────────────
+[head=2][color=#003366][bold]FORM[/bold][/color][/head] – [color=#0055aa][bolditalic]LOST AND FOUND[/bolditalic][/color]
+────────────────────────────────────────
+[center][color=#aaaaaa][italic]Record for reporting or reclaiming lost property aboard the station[/italic][/color][/center]
+
+[head=2]Filing Details[/head]
+[bold]Date & Time:[/bold] [form]
+[bold]Filed By:[/bold] [signature]
+[bold]Department / Role:[/bold] [form]
+
+[head=2]Item Information[/head]
+[check] Lost Item
+[check] Found Item
+
+[bold]Item Name / Description:[/bold] [form]
+[bold]Last Known Location (if lost):[/bold] [form]
+[bold]Recovery Location (if found):[/bold] [form]
+
+[head=2]Additional Notes[/head]
+[form]
+
+[head=2]Authorization[/head]
+[bold]Required Stamps/Signatures:[/bold]
+[bullet] Security (for chain of custody if item is valuable, restricted, or sensitive)
+[bullet] Head of Personnel (if ID, access card, or valuables claimed)
+
+────────────────────────────────────────
+[color=#aaaaaa][italic]
+NOTICE: Items deposited into Lost & Found remain property of their original owner. Fraudulent claims, misrepresentation, or refusal to surrender lost property may result in disciplinary action under NanoTrasen Corporate Law.
+[/italic][/color]
+
+
+
+
+
+[italic]Place for Stamps / Signatures[/italic]

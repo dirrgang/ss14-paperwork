@@ -1,0 +1,47 @@
+# Station Modification Permit
+[logo]
+
+
+[head=1][color=#f39f27]ENGINEERING DEPARTMENT[/color][/head]
+────────────────────────────────────────
+[head=2][color=#003366][bold]PERMISSION[/bold][/color][/head] – [color=#0055aa][bolditalic]STATION MODIFICATION[/bolditalic][/color]
+────────────────────────────────────────
+[center][color=#aaaaaa][italic]Authorization to alter station infrastructure, layout, or atmospheric systems beyond routine maintenance[/italic][/color][/center]
+
+[head=2]Modification Details[/head]
+[bold]Date & Time:[/bold] [form]
+[bold]Requesting Individual:[/bold] [signature]
+[bold]Department / Role:[/bold] [form]
+
+[head=2]Proposed Modification[/head]
+[check] Construction of new room / facility
+[check] Modification of existing area
+[check] Atmospheric change (O₂, N₂, etc.)
+[check] Power grid / equipment reroute
+[check] Other: [form]
+
+[bold]Description of Work (include purpose, affected area, and required resources):[/bold]
+[form]
+
+[head=2]Safety Considerations[/head]
+[check] Atmospherics evaluated (pressure, mix, venting)
+[check] Power draw / grid load calculated
+[check] Structural integrity verified
+[check] Fire suppression available
+[check] Other: [form]
+
+[head=2]Authorization[/head]
+[bold]Required Stamps/Signatures:[/bold]
+[bullet] Chief Engineer
+[bullet] Relevant Head of Department (if modification affects departmental areas)
+
+────────────────────────────────────────
+[color=#aaaaaa][italic]
+NOTICE: Unauthorized modification of station infrastructure is a Class-B corporate offense. Approved modifications remain property of NanoTrasen and may be reversed at any time at Command’s discretion.
+[/italic][/color]
+
+
+
+
+
+[italic]Place for Engineering / Command Stamps and Signatures[/italic]

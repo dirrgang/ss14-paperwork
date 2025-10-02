@@ -1,0 +1,47 @@
+# Medical Consent Form
+[logo]
+
+
+[head=1][color=#5b97bc]MEDICAL DEPARTMENT[/color][/head]
+────────────────────────────────────────
+[head=2][color=#003366][bold]FORM[/bold][/color][/head] – [color=#0055aa][bolditalic]MEDICAL CONSENT[/bolditalic][/color]
+────────────────────────────────────────
+[center][color=#aaaaaa][italic]Formal authorization for medical treatment, surgery, or experimental procedure aboard station facilities[/italic][/color][/center]
+
+[head=2]Patient Information[/head]
+[bold]Date & Time:[/bold] [form]
+[bold]Patient Name:[/bold] [form]
+[bold]Department / Role:[/bold] [form]
+[bold]ID Verification:[/bold] [form]
+
+[head=2]Treatment / Procedure[/head]
+[check] Standard medical treatment (non-invasive)
+[check] Surgery (routine / emergency)
+[check] Prosthetic / augmentation procedure
+[check] Experimental / research-based treatment
+[check] Other: [form]
+
+[bold]Procedure Description:[/bold]
+[form]
+
+[head=2]Consent[/head]
+[check] I understand the risks involved and consent to the listed treatment.
+[check] I decline the treatment.
+[check] Consent provided by next-of-kin / guardian (if patient unable to sign).
+
+[bold]Patient / Guardian Signature:[/bold] [signature]
+
+[head=2]Authorization[/head]
+[bold]Attending Physician / Surgeon:[/bold] [form]
+[bold]Chief Medical Officer Approval (if required):[/bold] [form]
+
+────────────────────────────────────────
+[color=#aaaaaa][italic]
+NOTICE: Consent may be withdrawn at any time prior to procedure unless condition is life-threatening and refusal endangers the patient or crew. Experimental procedures require explicit authorization by both the patient and Medical Command. Fraudulent consent forms are punishable under NanoTrasen Corporate Law.
+[/italic][/color]
+
+
+
+
+
+[italic]Place for Medical Signatures / Stamps[/italic]

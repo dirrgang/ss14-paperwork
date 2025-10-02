@@ -1,0 +1,50 @@
+# Hazardous Experiment Permit
+[logo]
+
+
+[head=1][color=#c96dbf]SCIENCE DEPARTMENT[/color][/head]
+────────────────────────────────────────
+[head=2][color=#003366][bold]PERMISSION[/bold][/color][/head] – [color=#0055aa][bolditalic]HAZARDOUS EXPERIMENT[/bolditalic][/color]
+────────────────────────────────────────
+[center][color=#aaaaaa][italic]Authorization to conduct experiments with anomalous, volatile, or otherwise dangerous materials, devices, or organisms[/italic][/color][/center]
+
+[head=2]Experiment Details[/head]
+[bold]Date & Time:[/bold] [form]
+[bold]Lead Researcher:[/bold] [form]
+[bold]Supervising Scientist / RD:[/bold] [form]
+[bold]Experiment Title / ID:[/bold] [form]
+
+[head=2]Hazard Category[/head]
+[check] High-energy / explosive reaction
+[check] Hazardous chemical / biological exposure
+[check] Anomalous artifact / xenoarcheology
+[check] Prototype weapon or device
+[check] Other: [form]
+
+[bold]Description of Experiment:[/bold]
+[form]
+
+[head=2]Safety Measures Required[/head]
+[check] Secure test chamber / blast shield
+[check] Atmospherics monitoring active
+[check] Medical standby alerted
+[check] Security standby alerted
+[check] Emergency containment / scrubbers ready
+[check] Other: [form]
+
+[head=2]Authorization[/head]
+[bold]Required Stamps/Signatures:[/bold]
+[bullet] Research Director (or acting Head of Science)
+[bullet] Captain or Acting Command Authority
+[bullet] Chief Engineer / Chief Medical Officer (if risk crosses into engineering or medical domains)
+
+────────────────────────────────────────
+[color=#aaaaaa][italic]
+NOTICE: Unauthorized or unsupervised hazardous experiments constitute a Class-A violation of Corporate Law and may result in termination or criminal referral. This permit must remain on record and be presented to Security or Command upon request.
+[/italic][/color]
+
+
+
+
+
+[italic]Place for Stamps / Signatures[/italic]

@@ -1,0 +1,45 @@
+# Emergency Response Team Request
+[logo]
+
+
+[head=1][color=#1b67a5]STATION COMMAND[/color][/head]
+────────────────────────────────────────
+[head=2][color=#003366][bold]REQUEST[/bold][/color][/head] – [color=#0055aa][bolditalic]EMERGENCY RESPONSE TEAM (ERT)[/bolditalic][/color]
+────────────────────────────────────────
+[center][color=#aaaaaa][italic]Formal request for deployment of specialized Central Command personnel to assist in critical station emergencies[/italic][/color][/center]
+
+[head=2]Request Origin[/head]
+[bold]Station Name / ID:[/bold] [form]  
+[bold]Requesting Officer Name:[/bold] [signature]  
+[bold]Date & Time:[/bold] [form]  
+
+[head=2]Reason for Request[/head]
+[check] Hostile incursion beyond Security capacity  
+[check] Large-scale medical emergency / casualties  
+[check] Station infrastructure collapse (power, atmos, engineering)  
+[check] Anomalous / xeno threat beyond containment  
+[check] Command incapacitated / unable to lead  
+[check] Other: [form]  
+
+[head=2]Requested Response Type[/head]
+[check] Security Response Team (combat-capable)  
+[check] Medical Response Team (casualty recovery)  
+[check] Engineering Response Team (repair / recovery)  
+[check] Mixed Response Team  
+[check] Other: [form]  
+
+[head=2]Additional Notes to Central Command[/head]
+[form]  
+
+────────────────────────────────────────
+[color=#aaaaaa][italic]
+NOTICE: Deployment of an Emergency Response Team is at the discretion of Central Command. Requests should only be filed when station integrity cannot be preserved with available crew. Misuse of this request constitutes a Class-A breach of command protocol.
+[/italic][/color]
+
+[color=#aaaaaa][italic]Required: Authorization by at least two Command staff (Captain, HoP, or relevant Head of Department).[/italic][/color]
+
+
+
+
+
+[italic]Place for Command Signatures / Stamps[/italic]

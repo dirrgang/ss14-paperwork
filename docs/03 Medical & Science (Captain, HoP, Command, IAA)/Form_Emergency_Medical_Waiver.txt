@@ -1,0 +1,49 @@
+# Emergency Medical Waiver
+[logo]
+
+
+[head=1][color=#5b97bc]MEDICAL DEPARTMENT[/color][/head]
+────────────────────────────────────────
+[head=2][color=#003366][bold]FORM[/bold][/color][/head] – [color=#0055aa][bolditalic]EMERGENCY MEDICAL WAIVER[/bolditalic][/color]
+────────────────────────────────────────
+[center][color=#aaaaaa][italic]Authorization to perform treatment or surgery without prior consent due to immediate threat to patient life or station safety[/italic][/color][/center]
+
+[head=2]Patient Information[/head]
+[bold]Date & Time:[/bold] [form]
+[bold]Patient Name (if known):[/bold] [form]
+[bold]Department / Role:[/bold] [form]
+[bold]Condition at Time of Waiver:[/bold] [form]
+
+[head=2]Emergency Circumstances[/head]
+[check] Patient unconscious / unable to provide consent
+[check] Life-threatening condition requiring immediate intervention
+[check] Highly contagious / anomalous condition posing risk to crew
+[check] Other: [form]
+
+[bold]Summary of Situation:[/bold]
+[form]
+
+[head=2]Authorized Procedure[/head]
+[check] Emergency surgery
+[check] Life-saving treatment (defib, transfusion, chemical intervention)
+[check] Quarantine / isolation procedure
+[check] Other: [form]
+
+[bold]Procedure Description / Intended Outcome:[/bold]
+[form]
+
+[head=2]Authorization[/head]
+[bold]Attending Physician / Surgeon:[/bold] [form]
+[bold]Chief Medical Officer (if available):[/bold] [form]
+[bold]Command Endorsement (if condition poses station-wide risk):[/bold] [form]
+
+────────────────────────────────────────
+[color=#aaaaaa][italic]
+NOTICE: This waiver authorizes treatment without prior consent only in emergencies. It does not absolve medical staff of responsibility for professional conduct. Abuse of this waiver constitutes a Class-A violation of NanoTrasen Medical Ethics and Corporate Law. All such cases are subject to post-incident review.
+[/italic][/color]
+
+
+
+
+
+[italic]Place for Medical / Command Stamps and Signatures[/italic]

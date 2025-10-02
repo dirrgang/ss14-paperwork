@@ -1,0 +1,49 @@
+# Offense Complaint
+[logo]
+
+
+[head=1][color=#cb0000]SECURITY DEPARTMENT[/color][/head]
+────────────────────────────────────────
+[head=2][color=#003366][bold]COMPLAINT[/bold][/color][/head] – [color=#0055aa][bolditalic]OFFENSE REPORT[/bolditalic][/color]
+────────────────────────────────────────
+[center][color=#aaaaaa][italic]Formal complaint alleging misconduct, criminal activity, or violation of corporate regulations[/italic][/color][/center]
+
+[head=2]Filing Party[/head]
+[bold]Date & Time:[/bold] [form]
+[bold]Complainant Name:[/bold] [signature]
+[bold]Department / Role:[/bold] [form]
+
+[head=2]Accused Party[/head]
+[bold]Name of Accused Individual:[/bold] [form]
+[bold]Department / Role:[/bold] [form]
+[bold]Physical Description (if unknown or ID not available):[/bold] [form]
+
+[head=2]Nature of Offense[/head]
+[check] Theft
+[check] Assault / Battery
+[check] Harassment / Misconduct
+[check] Sabotage / Tampering
+[check] Dereliction of Duty
+[check] Unauthorized Access
+[check] Other: [form]
+
+[bold]Description of Incident:[/bold]
+[form]
+
+[head=2]Witnesses / Evidence[/head]
+[bold]Witness Names / Departments:[/bold] [form]
+[bold]Supporting Evidence (items, logs, testimony):[/bold] [form]
+
+[head=2]Authorization[/head]
+[bold]Receiving Officer / Investigator:[/bold] [form]
+
+────────────────────────────────────────
+[color=#aaaaaa][italic]
+NOTICE: Filing a false or malicious complaint constitutes a corporate offense and may result in disciplinary action. Valid complaints will be investigated by Security and/or Internal Affairs, and outcomes recorded in station records.
+[/italic][/color]
+
+
+
+
+
+[italic]Place for Security Stamps / Signatures[/italic]

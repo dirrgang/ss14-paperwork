@@ -1,0 +1,47 @@
+# Execution Order
+[logo]
+
+
+[head=1][color=#cb0000]SECURITY DEPARTMENT[/color][/head]
+────────────────────────────────────────
+[head=2][color=#003366][bold]ORDER[/bold][/color][/head] – [color=#0055aa][bolditalic]EXECUTION[/bolditalic][/color]
+────────────────────────────────────────
+[center][color=#aaaaaa][italic]Official directive authorizing the capital execution of a crew member under NanoTrasen Corporate Law and Standard Operating Procedure[/italic][/color][/center]
+
+[head=2]Subject Information[/head]
+[bold]Name of Condemned Individual:[/bold] [form]
+[bold]Department / Position:[/bold] [form]
+[bold]Physical Description / ID Verification:[/bold] [form]
+
+[head=2]Charges Leading to Execution[/head]
+[check] Capital Offense – Murder of crew
+[check] Capital Offense – Sabotage threatening station integrity
+[check] Capital Offense – Syndicate/hostile agent confirmed
+[check] Other: [form]
+
+[bold]Summary of Evidence / Justification:[/bold]
+[form]
+
+[head=2]Execution Method[/head]
+[check] Firing squad
+[check] Lethal injection
+[check] Spacing / airlock exposure
+[check] Electric chair / energy discharge
+[check] Other: [form]
+
+[head=2]Authorization[/head]
+[bold]Required Stamps/Signatures:[/bold]
+[bullet] Head of Security
+[bullet] Captain
+[bullet] Internal Affairs Agent (if available)
+
+────────────────────────────────────────
+[color=#aaaaaa][italic]
+NOTICE: This order constitutes the highest level of disciplinary action permitted aboard NanoTrasen facilities. Execution is only lawful after evidence of a capital crime has been established and command authorization secured. Unauthorized executions constitute a Class-A corporate offense and may result in permanent dismissal, trial, or capital punishment for the responsible parties.
+[/italic][/color]
+
+
+
+
+
+[italic]Place for Stamps / Final Signatures[/italic]

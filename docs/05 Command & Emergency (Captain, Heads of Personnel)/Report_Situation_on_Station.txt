@@ -1,0 +1,58 @@
+# Report_Situation
+[logo]
+
+
+[head=1][color=#1b67a5]STATION COMMAND[/color][/head]
+────────────────────────────────────────
+[head=2][color=#003366][bold]REPORT[/bold][/color][/head] – [color=#0055aa][bolditalic]SITUATION REPORT (SITREP)[/bolditalic][/color]
+────────────────────────────────────────
+[center][color=#aaaaaa][italic]Regular update on operational status, crew condition, and threats aboard the station[/italic][/color][/center]
+
+[head=2]Report Origin[/head]
+[bold]Station Name / ID:[/bold] [form]
+[bold]Reporting Officer:[/bold] [signature]
+[bold]Date & Time:[/bold] [form]
+
+[head=2]Operational Status[/head]
+[check] Normal operations – Station stable
+[check] Minor disruptions – manageable with current resources
+[check] Major disruptions – station function impaired
+[check] Critical – station integrity at risk
+[check] Other: [form]
+
+[bold]Details / Summary:[/bold]
+[form]
+
+[head=2]Crew Status[/head]
+[check] Crew morale stable
+[check] Minor injuries reported
+[check] Casualties confirmed
+[check] Medical staff at capacity
+[check] Other: [form]
+
+[bold]Notable Events (incidents, threats, anomalies):[/bold]
+[form]
+
+[head=2]Assistance Requested from Central Command[/head]
+[check] None – situation under control
+[check] Advisory guidance
+[check] Supply / equipment support
+[check] Emergency Response Team dispatch
+[check] Evacuation shuttle request (use dedicated form if required)
+[check] Other: [form]
+
+[head=2]Additional Notes[/head]
+[form]
+
+────────────────────────────────────────
+[color=#aaaaaa][italic]
+NOTICE: This report reflects conditions as observed at the time of filing. Updates should be transmitted as the situation develops. False or misleading reporting constitutes a violation of Corporate Directive §14C and may result in disciplinary review.
+[/italic][/color]
+
+[color=#aaaaaa][italic]Filed under Station Records – Forwarded to Central Command[/italic][/color]
+
+
+
+
+
+[italic]Place for Command Stamps / Additional Signatures[/italic]

@@ -1,0 +1,45 @@
+# Quarantine Notice
+[logo]
+
+
+[head=1][color=#5b97bc]MEDICAL DEPARTMENT[/color][/head]
+────────────────────────────────────────
+[head=2][color=#003366][bold]NOTICE[/bold][/color][/head] – [color=#0055aa][bolditalic]QUARANTINE[/bolditalic][/color]
+────────────────────────────────────────
+[center][color=#aaaaaa][italic]Official restriction of access and movement due to biological, chemical, or anomalous hazard[/italic][/color][/center]
+
+[head=2]Quarantine Details[/head]
+[bold]Date & Time Issued:[/bold] [form]
+[bold]Authorized By:[/bold] [signature]
+[bold]Affected Area / Individual(s):[/bold] [form]
+
+[head=2]Reason for Quarantine[/head]
+[check] Confirmed infectious disease
+[check] Suspected outbreak (pending tests)
+[check] Hazardous chemical release
+[check] Anomalous or xeno threat
+[check] Other: [form]
+
+[bold]Summary of Hazard / Risk Level:[/bold]
+[form]
+
+[head=2]Restrictions Enforced[/head]
+[check] No entry or exit permitted without authorization
+[check] Security presence required
+[check] Medical staff only permitted inside
+[check] Area must be sealed / depressurized
+[check] Other: [form]
+
+[head=2]Duration[/head]
+[bold]Quarantine in effect until:[/bold] [form]
+
+────────────────────────────────────────
+[color=#aaaaaa][italic]
+NOTICE: Violation of quarantine procedures is a Class-A offense. All crew are required to comply with the restrictions listed above. Only Command staff or Central Command may lift this order prior to the expiration of declared duration.
+[/italic][/color]
+
+
+
+
+
+[italic]Place for Medical / Command Stamps and Signatures[/italic]

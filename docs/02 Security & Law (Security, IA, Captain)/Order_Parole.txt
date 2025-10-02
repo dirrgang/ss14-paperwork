@@ -1,0 +1,45 @@
+# Parole Order
+[logo]
+
+
+[head=1][color=#cb0000]SECURITY DEPARTMENT[/color][/head]
+────────────────────────────────────────
+[head=2][color=#003366][bold]ORDER[/bold][/color][/head] – [color=#0055aa][bolditalic]PAROLE[/bolditalic][/color]
+────────────────────────────────────────
+[center][color=#aaaaaa][italic]Official directive releasing an individual from confinement under specified conditions and supervision[/italic][/color][/center]
+
+[head=2]Subject Information[/head]
+[bold]Name of Paroled Individual:[/bold] [form]
+[bold]Department / Position (if employed):[/bold] [form]
+[bold]Physical Description / ID Verification:[/bold] [form]
+
+[head=2]Conviction Details[/head]
+[bold]Original Charges:[/bold] [form]
+[bold]Sentence Served (time or penalty):[/bold] [form]
+
+[head=2]Conditions of Parole[/head]
+[check] Subject must remain within assigned department / work area
+[check] Subject must report regularly to Security for check-ins
+[check] Subject may not carry weapons or restricted items
+[check] Subject is assigned a Security escort
+[check] Subject must wear monitoring device (if available)
+[check] Other: [form]
+
+[bold]Parole Duration / Expiry:[/bold] [form]
+
+[head=2]Authorization[/head]
+[bold]Required Stamps/Signatures:[/bold]
+[bullet] Head of Security
+[bullet] Warden
+[bullet] Captain (optional for high-profile cases)
+
+────────────────────────────────────────
+[color=#aaaaaa][italic]
+NOTICE: Parole is a conditional release, not an acquittal. Any violation of parole conditions may result in immediate re-arrest and reinstatement of the original sentence, with additional penalties under Corporate Law.
+[/italic][/color]
+
+
+
+
+
+[italic]Place for Stamps / Final Signatures[/italic]

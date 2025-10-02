@@ -1,0 +1,45 @@
+# Do Not Resuscitate Order
+[logo]
+
+
+[head=1][color=#cb0000]SECURITY DEPARTMENT[/color][/head]
+────────────────────────────────────────
+[head=2][color=#003366][bold]PERMISSION[/bold][/color][/head] – [color=#0055aa][bolditalic]DO NOT RESUSCITATE (DNR)[/bolditalic][/color]
+────────────────────────────────────────
+[center][color=#aaaaaa][italic]Authorization to deny resuscitation, cloning, or revival of an individual due to capital crimes or corporate directive[/italic][/color][/center]
+
+[head=2]Subject Information[/head]
+[bold]Name of Individual:[/bold] [form]
+[bold]Department / Position:[/bold] [form]
+[bold]Physical Description / ID Verification:[/bold] [form]
+
+[head=2]Reason for DNR[/head]
+[check] Confirmed hostile / syndicate operative
+[check] Multiple murders / capital crime
+[check] Sabotage threatening station integrity
+[check] Other: [form]
+
+[bold]Summary of Crimes / Evidence:[/bold]
+[form]
+
+[head=2]Scope of Order[/head]
+[check] No cloning permitted
+[check] No defibrillation permitted
+[check] No revival by medical or anomalous means
+[check] Other restrictions: [form]
+
+[head=2]Authorization[/head]
+[bold]Required Stamps/Signatures:[/bold]
+[bullet] Head of Security
+[bullet] Captain
+[bullet] Chief Medical Officer (confirmation of medical feasibility)
+[bullet] Internal Affairs Agent (if available)
+
+────────────────────────────────────────
+[color=#aaaaaa][italic]
+NOTICE: A DNR order is a capital-level directive. It denies all attempts to revive or restore the individual named above. This order is only lawful when applied to confirmed capital offenders or hostile agents. Unauthorized issuance or violation of this order constitutes a Class-A corporate offense. Medical staff are indemnified from liability when following a properly authorized DNR.
+[/italic][/color]
+
+
+
+[italic]Place for Stamps / Final Signatures[/italic]

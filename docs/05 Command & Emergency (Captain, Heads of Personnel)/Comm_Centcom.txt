@@ -1,0 +1,38 @@
+# CentComm Communication
+[logo]
+
+
+[head=1][color=#009100]STATION COMMAND[/color][/head]
+────────────────────────────────────────
+[head=2][color=#003366][bold]COMMUNICATION[/bold][/color][/head] – [color=#0055aa][bolditalic]STATION TO CENTRAL COMMAND[/bolditalic][/color]
+────────────────────────────────────────
+[center][color=#aaaaaa][italic]Official correspondence addressed to Central Command for information exchange, clarification, or formal notice[/italic][/color][/center]
+
+[head=2]Message Origin[/head]
+[bold]Station Name / ID:[/bold] [form]
+[bold]Sender Name & Position:[/bold] [signature]
+[bold]Date & Time:[/bold] [form]
+
+[head=2]Message Type[/head]
+[check] Routine Status Update
+[check] Request for Guidance
+[check] Incident / Threat Notification
+[check] Resource or Staffing Issue
+[check] Other: [form]
+
+[head=2]Message Content[/head]
+[form]
+
+[head=2]Attachments (if any)[/head]
+[form]
+
+────────────────────────────────────────
+[color=#aaaaaa][italic]
+NOTICE: This document is an official communication channel between Station Command and Central Command. Misrepresentation, falsification, or misuse of this form constitutes a Class-B corporate offense and may result in disciplinary review.
+[/italic][/color]
+
+
+
+
+
+[italic]Place for Command Signature / Stamp[/italic]
