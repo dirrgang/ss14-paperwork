@@ -12,7 +12,6 @@
 [bold]Date & Time:[/bold] [form]
 [bold]Patient Name:[/bold] [form]
 [bold]Department / Role:[/bold] [form]
-[bold]ID Verification:[/bold] [form]
 
 [head=2]Treatment / Procedure[/head]
 [check] Standard medical treatment (non-invasive)
@@ -32,8 +31,10 @@
 [bold]Patient / Guardian Signature:[/bold] [signature]
 
 [head=2]Authorization[/head]
-[bold]Attending Physician / Surgeon:[/bold] [form]
-[bold]Chief Medical Officer Approval (if required):[/bold] [form]
+[bold]Required Stamps/Signatures:[/bold]
+[bullet] Patient / Guardian Signature
+[bullet] Attending Physician / Surgeon
+[bullet] Chief Medical Officer Approval (if required)
 
 ────────────────────────────────────────
 [color=#aaaaaa][italic]

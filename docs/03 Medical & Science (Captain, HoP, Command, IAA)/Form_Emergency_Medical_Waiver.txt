@@ -33,9 +33,10 @@
 [form]
 
 [head=2]Authorization[/head]
-[bold]Attending Physician / Surgeon:[/bold] [form]
-[bold]Chief Medical Officer (if available):[/bold] [form]
-[bold]Command Endorsement (if condition poses station-wide risk):[/bold] [form]
+[bold]Required Stamps/Signatures:[/bold]
+[bullet] Attending Physician / Surgeon
+[bullet] Chief Medical Officer (if available)
+[bullet] Command Endorsement (if condition poses station-wide risk)
 
 ────────────────────────────────────────
 [color=#aaaaaa][italic]

@@ -34,7 +34,7 @@
 [head=2]Authorization[/head]
 [bold]Required Stamps/Signatures:[/bold]
 [bullet] Captain
-[bullet] Relevant Head of Department (Science/Medical/AI, if applicable)
+[bullet] Relevant Head of Department (Science/Medical, if applicable)
 [bullet] Internal Affairs Agent (if available)
 
 ────────────────────────────────────────
