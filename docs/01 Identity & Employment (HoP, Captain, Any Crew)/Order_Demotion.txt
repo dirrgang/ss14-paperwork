@@ -1,0 +1,48 @@
+# Demotion / Termination Order
+[logo]
+
+
+[head=1][color=#1b67a5]STATION COMMAND[/color][/head]
+────────────────────────────────────────
+[head=2][color=#003366][bold]ORDER[/bold][/color][/head] – [color=#0055aa][bolditalic]DEMOTION / TERMINATION[/bolditalic][/color]
+────────────────────────────────────────
+[center][color=#aaaaaa][italic]Official directive reassigning, demoting, or removing an employee due to incompetence, misconduct, or violation of corporate law[/italic][/color][/center]
+
+[head=2]Subject Information[/head]
+[bold]Name of Individual:[/bold] [form]
+[bold]Department / Current Position:[/bold] [form]
+
+[head=2]Action Taken[/head]
+[check] Demotion to lower rank/role
+[check] Reassignment to alternate department
+[check] Termination of employment (removal from NT service)
+[check] Other: [form]
+
+[bold]New Position / Status (if applicable):[/bold] [form]
+
+[head=2]Reason for Action[/head]
+[check] Incompetence / failure to perform duties
+[check] Criminal behavior / violation of Space Law
+[check] Abuse of authority / misconduct
+[check] Medical or psychological unfitness
+[check] Other: [form]
+
+[bold]Summary of Evidence / Justification:[/bold]
+[form]
+
+[head=2]Authorization[/head]
+[bold]Required Stamps/Signatures:[/bold]
+[bullet] Head of Personnel
+[bullet] Head of Department (if demotion within department)
+[bullet] Captain (if command)
+
+────────────────────────────────────────
+[color=#aaaaaa][italic]
+NOTICE: This order is binding and must be filed in station records. Demotions and terminations require appropriate justification. Abuse of this authority is a Class-B corporate offense and may result in review by Internal Affairs or Central Command.
+[/italic][/color]
+
+
+
+
+
+[italic]Place for Command Stamps / Signatures[/italic]
