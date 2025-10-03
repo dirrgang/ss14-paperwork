@@ -6,7 +6,7 @@
 ────────────────────────────────────────
 [head=2][color=#003366][bold]ORDER[/bold][/color][/head] – [color=#0055aa][bolditalic]EXECUTION[/bolditalic][/color]
 ────────────────────────────────────────
-[center][color=#aaaaaa][italic]Official directive authorizing the capital execution of a crew member under NanoTrasen Corporate Law and Standard Operating Procedure[/italic][/color][/center]
+[center][color=#aaaaaa][italic]Official directive authorizing the capital execution of a sentient individual under NanoTrasen Corporate Law and Standard Operating Procedure[/italic][/color][/center]
 
 [head=2]Subject Information[/head]
 [bold]Name of Condemned Individual:[/bold] [form]
@@ -14,9 +14,11 @@
 [bold]Physical Description / ID Verification:[/bold] [form]
 
 [head=2]Charges Leading to Execution[/head]
-[check] Capital Offense – Murder of crew
+[check] Capital Offense – Mass Murder of sentients
 [check] Capital Offense – Sabotage threatening station integrity
-[check] Capital Offense – Syndicate/hostile agent confirmed
+[check] Capital Offense – Enemy of NanoTrasen
+[check] Capital Offense – Refusal of mental shielding
+[check] Capital Offense – Prevention of revival
 [check] Other: [form]
 
 [bold]Summary of Evidence / Justification:[/bold]

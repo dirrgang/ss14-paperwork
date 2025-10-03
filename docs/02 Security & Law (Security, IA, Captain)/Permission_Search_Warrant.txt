@@ -10,7 +10,7 @@
 
 [head=3]Warrant Details[/head]
 [bold]Date & Time Issued:[/bold] [form]
-[bold]Authorizing Official:[/bold] [form]
+[bold]Authorizing Official:[/bold] [signature]
 
 [bold]Subject Name:[/bold] [form]
 [bold]Physical Description:[/bold] [form]

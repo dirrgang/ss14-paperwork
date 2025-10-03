@@ -4,7 +4,7 @@
 
 [head=1][color=#cb0000]SECURITY DEPARTMENT[/head][/color]
 ────────────────────────────────────────
-[head=2][color=#003366][bold]PERMIT[/bold][/color][/head] – [color=#0055aa][bolditalic]ARREST[/bolditalic][/color]
+[head=2][color=#003366][bold]REPORT[/bold][/color][/head] – [color=#0055aa][bolditalic]ARREST[/bolditalic][/color]
 ────────────────────────────────────────
 [center][color=#aaaaaa][italic]Issued under authority of the NanoTrasen Security Department[/italic][/color][/center]  
 ────────────────────────────────────────
@@ -22,10 +22,9 @@
 [check] Assault                       [check] Theft  
 [check] Sabotage                   [check] Trespass  
 [check] Contraband              [check] Disorderly Conduct  
-[check] Property Damage   [check] Other: [form]
+[check] Vandalism   [check] Other: [form]
 
 [bold]Sentence Length:[/bold] [form] minutes  
-[bold]Brig Timer Set:[/bold] [check] Yes   [check] No
 
 [head=2]Additional Conditions[/head]  
 [check] Parole Considered  

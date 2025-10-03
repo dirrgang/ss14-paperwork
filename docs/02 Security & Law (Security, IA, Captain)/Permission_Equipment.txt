@@ -7,8 +7,6 @@
 ────────────────────────────────────────
 [center][color=#aaaaaa][italic]Issued under authority of the NanoTrasen Security Department – Conditional use of restricted or hazardous equipment[/italic][/color][/center]
 
-[bold]Time & Date:[/bold] [form]
-
 [head=2]Permit Details[/head]
 [bold]Date & Time Issued:[/bold] [form]
 [bold]Authorizing Official:[/bold] [signature]

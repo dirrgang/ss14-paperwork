@@ -4,7 +4,7 @@
 
 [head=1][color=#cb0000]SECURITY DEPARTMENT[/color][/head]
 ────────────────────────────────────────
-[head=2][color=#003366][bold]PERMISSION[/bold][/color][/head] – [color=#0055aa][bolditalic]DO NOT RESUSCITATE (DNR)[/bolditalic][/color]
+[head=2][color=#003366][bold]ORDER[/bold][/color][/head] – [color=#0055aa][bolditalic]DO NOT RESUSCITATE (DNR)[/bolditalic][/color]
 ────────────────────────────────────────
 [center][color=#aaaaaa][italic]Authorization to deny resuscitation, cloning, or revival of an individual due to capital crimes or corporate directive[/italic][/color][/center]
 
@@ -14,8 +14,8 @@
 [bold]Physical Description / ID Verification:[/bold] [form]
 
 [head=2]Reason for DNR[/head]
-[check] Confirmed hostile / syndicate operative
-[check] Multiple murders / capital crime
+[check] Confirmed enemy of NanoTrasen
+[check] Capital crime (e.g. mass murder)
 [check] Sabotage threatening station integrity
 [check] Other: [form]
 

@@ -35,7 +35,7 @@
 [check] Magazines: [form]
 [check] Magazine Boxes: [form]
 [check] Drums: [form]
-[check] Fast-Loaders: [form]
+[check] Speed-Loaders: [form]
 [check] N/A
 
 [head=2]Conditions & Restrictions[/head]
