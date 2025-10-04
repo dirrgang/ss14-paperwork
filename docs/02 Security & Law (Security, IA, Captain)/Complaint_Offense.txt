@@ -19,12 +19,13 @@
 [bold]Physical Description (if unknown or ID not available):[/bold] [form]
 
 [head=2]Nature of Offense[/head]
-[check] Theft
-[check] Assault / Battery
-[check] Harassment / Misconduct
-[check] Sabotage / Tampering
-[check] Dereliction of Duty
-[check] Unauthorized Access
+[check] Animal Cruelty
+[check] Possession or Use of Minor Contraband
+[check] Petty Theft
+[check] Vandalism
+[check] Trespass
+[check] Disturbance
+[check] Impersonation or Fraud
 [check] Other: [form]
 
 [bold]Description of Incident:[/bold]

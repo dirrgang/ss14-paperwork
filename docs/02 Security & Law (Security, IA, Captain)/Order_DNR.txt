@@ -14,9 +14,12 @@
 [bold]Physical Description / ID Verification:[/bold] [form]
 
 [head=2]Reason for DNR[/head]
-[check] Confirmed enemy of NanoTrasen
-[check] Capital crime (e.g. mass murder)
-[check] Sabotage threatening station integrity
+[check] Refusal of Mental Shielding
+[check] Terrorism
+[check] Unlawful Execution
+[check] Prevention of Revival
+[check] Mass Murder
+[check] Enemy of Corporation
 [check] Other: [form]
 
 [bold]Summary of Crimes / Evidence:[/bold]

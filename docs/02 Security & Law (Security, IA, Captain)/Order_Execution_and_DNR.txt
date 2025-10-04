@@ -1,0 +1,58 @@
+# Execution & DNR Order
+[logo]
+
+
+[head=1][color=#cb0000]SECURITY DEPARTMENT[/color][/head]
+────────────────────────────────────────
+[head=2][color=#003366][bold]ORDER[/bold][/color][/head] – [color=#0055aa][bolditalic]EXECUTION & DO NOT RESUSCITATE[/bolditalic][/color]
+────────────────────────────────────────
+[center][color=#aaaaaa][italic]Final directive authorizing capital execution and permanent prohibition of resuscitation or cloning, pursuant to NanoTrasen Corporate Law[/italic][/color][/center]
+
+[head=2]Subject Information[/head]
+[bold]Name of Condemned Individual:[/bold] [form]
+[bold]Department / Position:[/bold] [form]
+
+[head=2]Offenses Leading to Execution[/head]
+[check] Refusal of Mental Shielding
+[check] Terrorism
+[check] Unlawful Execution
+[check] Prevention of Revival
+[check] Mass Murder
+[check] Enemy of Corporation
+[check] Other: [form]
+
+[bold]Summary of Evidence / Reasoning:[/bold]
+[form]
+
+[head=2]Execution Details[/head]
+[check] Firing squad
+[check] Lethal injection
+[check] Spacing / airlock exposure
+[check] Electric chair / energy discharge
+[check] Other: [form]
+
+[bold]Execution Time / Location:[/bold] [form]
+
+[head=2]Post-Execution Directive[/head]
+[check] Do Not Resuscitate – no defibrillation, cloning, or revival permitted
+[check] Body to be secured / retained by Security
+[check] Body to be cremated or spaced (specify): [form]
+[check] Other: [form]
+
+[head=2]Authorization[/head]
+[bold]Required Stamps/Signatures:[/bold]
+[bullet] Head of Security
+[bullet] Captain
+[bullet] Internal Affairs Agent (if available)
+[bullet] Chief Medical Officer (to confirm medical compliance)
+
+────────────────────────────────────────
+[color=#aaaaaa][italic]
+NOTICE: This order represents the final disciplinary measure authorized under NanoTrasen Corporate Law. Execution and accompanying DNR status may only be enacted after confirmation of capital offenses and Command approval. Unauthorized issuance or violation of this order constitutes a Class-A corporate offense and is subject to tribunal review.
+[/italic][/color]
+
+
+
+
+
+[italic]Place for Command / Security / Medical Stamps and Signatures[/italic]

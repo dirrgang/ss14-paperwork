@@ -14,11 +14,12 @@
 [bold]Physical Description / ID Verification:[/bold] [form]
 
 [head=2]Charges Leading to Execution[/head]
-[check] Capital Offense – Mass Murder of sentients
-[check] Capital Offense – Sabotage threatening station integrity
-[check] Capital Offense – Enemy of NanoTrasen
-[check] Capital Offense – Refusal of mental shielding
-[check] Capital Offense – Prevention of revival
+[check] Refusal of Mental Shielding
+[check] Terrorism
+[check] Unlawful Execution
+[check] Prevention of Revival
+[check] Mass Murder
+[check] Enemy of Corporation
 [check] Other: [form]
 
 [bold]Summary of Evidence / Justification:[/bold]
