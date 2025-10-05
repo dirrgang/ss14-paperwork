@@ -9,27 +9,27 @@
 [center][color=#aaaaaa][italic]Formal request for deployment of specialized Central Command personnel to assist in critical station emergencies[/italic][/color][/center]
 
 [head=2]Request Origin[/head]
-[bold]Station Name / ID:[/bold] [form]  
-[bold]Requesting Officer Name:[/bold] [signature]  
-[bold]Date & Time:[/bold] [form]  
+[bold]Station Name / ID:[/bold] [form]
+[bold]Requesting Officer Name:[/bold] [signature]
+[bold]Date & Time:[/bold] [form]
 
 [head=2]Reason for Request[/head]
-[check] Hostile incursion beyond Security capacity  
-[check] Large-scale medical emergency / casualties  
-[check] Station infrastructure collapse (power, atmos, engineering)  
-[check] Anomalous / xeno threat beyond containment  
-[check] Command incapacitated / unable to lead  
-[check] Other: [form]  
+[check] Hostile incursion beyond Security capacity
+[check] Large-scale medical emergency / casualties
+[check] Station infrastructure collapse (power, atmos, engineering)
+[check] Anomalous / xeno threat beyond containment
+[check] Command incapacitated / unable to lead
+[check] Other: [form]
 
 [head=2]Requested Response Type[/head]
-[check] Security Response Team (combat-capable)  
-[check] Medical Response Team (casualty recovery)  
-[check] Engineering Response Team (repair / recovery)  
-[check] Mixed Response Team  
-[check] Other: [form]  
+[check] Security Response Team (combat-capable)
+[check] Medical Response Team (casualty recovery)
+[check] Engineering Response Team (repair / recovery)
+[check] Mixed Response Team
+[check] Other: [form]
 
 [head=2]Additional Notes to Central Command[/head]
-[form]  
+[form]
 
 ────────────────────────────────────────
 [color=#aaaaaa][italic]

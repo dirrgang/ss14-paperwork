@@ -6,39 +6,39 @@
 ────────────────────────────────────────
 [head=2][color=#003366][bold]PERMIT[/bold][/color][/head] – [color=#0055aa][bolditalic]SPECIAL ARMAMENT[/bolditalic][/color]
 ────────────────────────────────────────
-[center][color=#aaaaaa][italic]Required for grenades/throwables, explosives, high-risk melee, chemical agents, prototypes and other non-standard devices.[/italic][/color][/center]  
+[center][color=#aaaaaa][italic]Required for grenades/throwables, explosives, high-risk melee, chemical agents, prototypes and other non-standard devices.[/italic][/color][/center]
 
 [head=2]Permit Details[/head]
 [bold]Date & Time Issued:[/bold] [form]
 [bold]Authorizing Official:[/bold] [signature]
 [bold]Authorized Individual:[/bold] [form]
 
-[head=2]Device Category (tick applicable)[/head]  
-[check] Grenade / Throwable Device (fragmentation, stun, smoke, incendiary)  
-[check] Explosive / Charge / Breaching Device  
-[check] Melee Weapon (bladed, electrified, ceremonial of concern)  
-[check] Chemical / Gas / Biological agent  
-[check] Prototype / Experimental Device  
+[head=2]Device Category (tick applicable)[/head]
+[check] Grenade / Throwable Device (fragmentation, stun, smoke, incendiary)
+[check] Explosive / Charge / Breaching Device
+[check] Melee Weapon (bladed, electrified, ceremonial of concern)
+[check] Chemical / Gas / Biological agent
+[check] Prototype / Experimental Device
 [check] Other: [form]
 
-[head=2]Device Details[/head]  
-[bold]Item Name / Model:[/bold] [form]  
-[bold]Quantity Issued:[/bold] [form]  
+[head=2]Device Details[/head]
+[bold]Item Name / Model:[/bold] [form]
+[bold]Quantity Issued:[/bold] [form]
 [bold]Intended Use / Location:[/bold] [form]
 
-[head=2]Required Safety & Controls (tick applicable)[/head]  
-[check] Holder certified / trained for device handling  
-[check] Two-person custody for transfers (both must sign/stamp)  
-[check] Secure storage in blast/chemical locker when not in use  
-[check] Use restricted to designated zone: [form]  
-[check] Medical & Research sign-off required (chemical/biological)  
+[head=2]Required Safety & Controls (tick applicable)[/head]
+[check] Holder certified / trained for device handling
+[check] Two-person custody for transfers (both must sign/stamp)
+[check] Secure storage in blast/chemical locker when not in use
+[check] Use restricted to designated zone: [form]
+[check] Medical & Research sign-off required (chemical/biological)
 [check] Other: [form]
 
 [head=2]Authorization[/head]
 [bold]Required Stamps/Signatures:[/bold]
 [bullet] Warden or above
 
-────────────────────────────────────────  
+────────────────────────────────────────
 [color=#aaaaaa][italic]
 NOTICE: Special armaments carry elevated risk. This permit must be present during transports or use. Unauthorized use/transfer will be reviewed by Internal Affairs.
 [/italic][/color]

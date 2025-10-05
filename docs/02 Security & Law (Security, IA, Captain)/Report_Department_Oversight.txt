@@ -1,0 +1,63 @@
+# Department Oversight Report
+[logo]
+
+
+[head=1][color=#134975]INTERNAL AFFAIRS[/color][/head]
+────────────────────────────────────────
+[head=2][color=#003366][bold]REPORT[/bold][/color][/head] – [color=#0055aa][bolditalic]DEPARTMENT OVERSIGHT[/bolditalic][/color]
+────────────────────────────────────────
+[center][color=#aaaaaa][italic]Filed by an Internal Affairs Agent to evaluate departmental performance, policy compliance, and overall operational conduct during a shift[/italic][/color][/center]
+
+[head=2]Report Details[/head]
+[bold]Date & Time:[/bold] [form]
+[bold]Filed By (IAA):[/bold] [signature]
+[bold]Shift Reference / Station ID:[/bold] [form]
+
+[head=2]Department Evaluated[/head]
+[check] Command
+[check] Security
+[check] Engineering
+[check] Science
+[check] Medical
+[check] Supply / Cargo
+[check] Service
+[check] Other: [form]
+
+[bold]Head of Department Interviewed (if applicable):[/bold] [form]
+
+[head=2]Summary of Department Conduct[/head]
+[bold]Operational Efficiency:[/bold] [form]
+[bold]Policy / Space Law Compliance:[/bold] [form]
+[bold]Crew Morale & Discipline Observed:[/bold] [form]
+[bold]Notable Incidents or Concerns:[/bold] [form]
+
+[head=2]Findings[/head]
+[check] Department performed within acceptable standards
+[check] Minor issues identified – corrective action advised
+[check] Major misconduct / violation observed
+[check] Further investigation required
+[check] Other: [form]
+
+[bold]Summary of Findings / Notes:[/bold]
+[form]
+
+[head=2]Recommendations[/head]
+[check] Training / procedural refresher needed
+[check] Personnel reassignment advised
+[check] Command intervention recommended
+[check] No further action required
+[check] Other: [form]
+
+[bold]Comments to Central Command / Station Command:[/bold]
+[form]
+
+────────────────────────────────────────
+[color=#aaaaaa][italic]
+NOTICE: Department Oversight Reports form part of the station’s permanent performance record. They must be filed honestly and without bias. Falsifying or suppressing oversight data constitutes a Class-B corporate offense and may result in disciplinary review.
+[/italic][/color]
+
+
+
+
+
+[italic]Place for IAA Stamp / Signature[/italic]

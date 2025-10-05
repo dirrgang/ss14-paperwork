@@ -2,7 +2,7 @@
 [logo]
 
 
-[head=1][color=#1b67a5]STATION COMMAND[/color][/head]
+[head=1][color=#1b67a5]PERSONNEL ADMINISTRATION[/color][/head]
 ────────────────────────────────────────
 [head=2][color=#003366][bold]FORM[/bold][/color][/head] – [color=#0055aa][bolditalic]VISITOR REGISTRATION[/bolditalic][/color]
 ────────────────────────────────────────
@@ -10,7 +10,7 @@
 
 [head=2]Visitor Information[/head]
 [bold]Date & Time of Arrival:[/bold] [form]
-[bold]Visitor Name:[/bold] [form]
+[bold]Visitor Name:[/bold] [signature]
 [bold]Origin (ship / colony / station):[/bold] [form]
 [bold]Declared Purpose of Visit:[/bold]
 [check] Business / Corporate Representative

@@ -16,7 +16,7 @@
 [head=2]Proposed Modification[/head]
 [check] Construction of new room / facility
 [check] Modification of existing area
-[check] Atmospheric change (O₂, N₂, etc.)
+[check] Atmospheric change (O2, N2, etc.)
 [check] Power grid / equipment reroute
 [check] Other: [form]
 

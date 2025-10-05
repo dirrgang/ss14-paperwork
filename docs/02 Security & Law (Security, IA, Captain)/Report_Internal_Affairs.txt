@@ -9,39 +9,39 @@
 [center][color=#aaaaaa][italic]Filed by a certified Internal Affairs Agent documenting the results of an inquiry, audit, or complaint investigation[/italic][/color][/center]
 
 [head=2]Report Information[/head]
-[bold]Date & Time:[/bold] [form]  
-[bold]Filed By (IAA):[/bold] [signature]  
-[bold]Reference Complaint / Case ID:[/bold] [form]  
+[bold]Date & Time:[/bold] [form]
+[bold]Filed By (IAA):[/bold] [signature]
+[bold]Reference Complaint / Case ID:[/bold] [form]
 
 [head=2]Investigation Summary[/head]
-[bold]Subject(s) of Investigation:[/bold] [form]  
-[bold]Alleged Violations / Concerns:[/bold] [form]  
+[bold]Subject(s) of Investigation:[/bold] [form]
+[bold]Alleged Violations / Concerns:[/bold] [form]
 
-[bold]Evidence Collected:[/bold]  
-[form]  
+[bold]Evidence Collected:[/bold]
+[form]
 
-[bold]Witness Testimony / Interviews:[/bold]  
-[form]  
+[bold]Witness Testimony / Interviews:[/bold]
+[form]
 
 [head=2]Findings[/head]
-[check] Allegations substantiated – violation confirmed  
-[check] Allegations unsubstantiated – insufficient evidence  
-[check] Allegations false / malicious complaint  
-[check] Other outcome: [form]  
+[check] Allegations substantiated – violation confirmed
+[check] Allegations unsubstantiated – insufficient evidence
+[check] Allegations false / malicious complaint
+[check] Other outcome: [form]
 
-[bold]Summary of Findings:[/bold]  
-[form]  
+[bold]Summary of Findings:[/bold]
+[form]
 
 [head=2]Recommendations[/head]
-[check] No action required – case closed  
-[check] Disciplinary action recommended  
-[check] Reassignment of individual(s) recommended  
-[check] Training / corrective measures recommended  
-[check] Escalation to Central Command  
-[check] Other: [form]  
+[check] No action required – case closed
+[check] Disciplinary action recommended
+[check] Reassignment of individual(s) recommended
+[check] Training / corrective measures recommended
+[check] Escalation to Central Command
+[check] Other: [form]
 
-[bold]Notes for Command / Security:[/bold]  
-[form]  
+[bold]Notes for Command / Security:[/bold]
+[form]
 
 ────────────────────────────────────────
 [color=#aaaaaa][italic]

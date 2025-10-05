@@ -9,32 +9,32 @@
 [center][color=#aaaaaa][italic]Formal grievance filed to Internal Affairs regarding employment, workplace conditions, or abuse of authority[/italic][/color][/center]
 
 [head=2]Filing Party[/head]
-[bold]Date & Time:[/bold] [form]  
-[bold]Complainant Name:[/bold] [signature]  
-[bold]Department / Role:[/bold] [form]  
+[bold]Date & Time:[/bold] [form]
+[bold]Complainant Name:[/bold] [signature]
+[bold]Department / Role:[/bold] [form]
 
 [head=2]Accused Party[/head]
-[bold]Name of Supervisor / Individual:[/bold] [form]  
-[bold]Department / Position:[/bold] [form]  
+[bold]Name of Supervisor / Individual:[/bold] [form]
+[bold]Department / Position:[/bold] [form]
 
 [head=2]Nature of Violation[/head]
-[check] Unlawful termination / reassignment  
-[check] Harassment / Hostile work environment  
-[check] Unsafe working conditions  
-[check] Wage / resource withholding  
-[check] Abuse of authority / favoritism  
-[check] Other: [form]  
+[check] Unlawful termination / reassignment
+[check] Harassment / Hostile work environment
+[check] Unsafe working conditions
+[check] Wage / resource withholding
+[check] Abuse of authority / favoritism
+[check] Other: [form]
 
-[bold]Description of Incident (include dates, locations, actions):[/bold]  
-[form]  
+[bold]Description of Incident (include dates, locations, actions):[/bold]
+[form]
 
 [head=2]Witnesses / Evidence[/head]
-[bold]Witness Names / Departments:[/bold] [form]  
-[bold]Supporting Evidence (logs, items, testimony):[/bold] [form]  
+[bold]Witness Names / Departments:[/bold] [form]
+[bold]Supporting Evidence (logs, items, testimony):[/bold] [form]
 
 [head=2]IAA Processing[/head]
-[bold]Received By (IAA):[/bold] [form]  
-[bold]Follow-up Action Taken:[/bold] [form]  
+[bold]Received By (IAA):[/bold] [form]
+[bold]Follow-up Action Taken:[/bold] [form]
 
 ────────────────────────────────────────
 [color=#aaaaaa][italic]

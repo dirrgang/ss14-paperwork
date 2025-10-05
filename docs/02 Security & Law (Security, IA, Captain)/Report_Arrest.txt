@@ -1,45 +1,63 @@
-# Security Arrest Report
+# Arrest Report
 [logo]
 
 
-[head=1][color=#cb0000]SECURITY DEPARTMENT[/head][/color]
+[head=1][color=#cb0000]SECURITY DEPARTMENT[/color][/head]
 ────────────────────────────────────────
-[head=2][color=#003366][bold]REPORT[/bold][/color][/head] – [color=#0055aa][bolditalic]ARREST[/bolditalic][/color]
+[head=2][color=#003366][bold]REPORT[/bold][/color][/head] – [color=#0055aa][bolditalic]ARREST RECORD[/bolditalic][/color]
 ────────────────────────────────────────
-[center][color=#aaaaaa][italic]Issued under authority of the NanoTrasen Security Department[/italic][/color][/center]  
+[center][color=#aaaaaa][italic]Filed by Security personnel to document the detention, charges, and disposition of an arrested individual[/italic][/color][/center]
+
+[head=2]Arrest Details[/head]
+[bold]Date & Time of Arrest:[/bold] [form]
+[bold]Arresting Officer(s):[/bold] [form]
+[bold]Location of Arrest:[/bold] [form]
+
+[head=2]Subject Information[/head]
+[bold]Name of Detainee:[/bold] [form]
+[bold]Department / Position (if crew):[/bold] [form]
+[bold]Physical Description / ID Verification:[/bold] [form]
+
+[head=2]Charges[/head]
+[check] Theft / Grand Theft
+[check] Assault / Battery
+[check] Murder / Attempted Murder
+[check] Sabotage / Trespass
+[check] Resisting Arrest / Obstruction
+[check] Contraband Possession
+[check] Other: [form]
+
+[bold]Applicable Space Law / Corporate Code Reference:[/bold] [form]
+
+[head=2]Summary of Incident[/head]
+[bold]Circumstances of Arrest / Evidence Collected:[/bold]
+[form]
+
+[bold]Witnesses (if any):[/bold] [form]
+
+[head=2]Processing & Disposition[/head]
+[check] Detained – pending investigation
+[check] Sentenced – brig time served: [form] minutes
+[check] Released – insufficient evidence
+[check] Released on parole
+[check] Executed (attach Execution Order)
+[check] Other: [form]
+
+[bold]Property Confiscated (if any):[/bold] [form]
+
+[head=2]Authorization[/head]
+[bold]Required Stamps/Signatures:[/bold]
+[bullet] Arresting Officer
+[bullet] Warden
+[bullet] Head of Security (for review or confirmation)
+
 ────────────────────────────────────────
-
-[head=2]Detainee Information[/head]  
-                             [bold]Name:[/bold] [form]
-[bold]Species / Description:[/bold] [form]
-
-[head=2]Arrest Details[/head]  
-[bold]Date & Time of Arrest:[/bold] [form]  
-       [bold]Location of Arrest:[/bold] [form]   
-         [bold]Arresting Officer:[/bold] [signature]
-
-[head=2]Charges[/head]  
-[check] Assault                       [check] Theft  
-[check] Sabotage                   [check] Trespass  
-[check] Contraband              [check] Disorderly Conduct  
-[check] Vandalism   [check] Other: [form]
-
-[bold]Sentence Length:[/bold] [form] minutes  
-
-[head=2]Additional Conditions[/head]  
-[check] Parole Considered  
-[check] Medical Evaluation Required  
-[check] Permitted Visitor(s): [form]  
-[check] Other Notes: [form]
-
-────────────────────────────────────────  
 [color=#aaaaaa][italic]
-NOTICE: All detainees must be processed fairly under Space Law. Sentences must reflect the charges applied. Misuse of this form may result in Internal Affairs investigation.
-[/italic][/color]  
+NOTICE: All arrests must be recorded to maintain accountability and legal traceability. Falsifying or omitting arrest information constitutes a Class-A offense under NanoTrasen Corporate Law. Copies of this report must be stored in Security records and made available to Internal Affairs upon request.
+[/italic][/color]
 
 
 
 
 
-
-[color=#aaaaaa][italic]Place for Signatures / Stamps[/italic][/color]
+[italic]Place for Security Stamps / Signatures[/italic]

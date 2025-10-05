@@ -2,7 +2,7 @@
 [logo]
 
 
-[head=1][color=#1b67a5]STATION COMMAND[/color][/head]
+[head=1][color=#1b67a5]PERSONNEL ADMINISTRATION[/color][/head]
 ────────────────────────────────────────
 [head=2][color=#003366][bold]ORDER[/bold][/color][/head] – [color=#0055aa][bolditalic]DEMOTION / TERMINATION[/bolditalic][/color]
 ────────────────────────────────────────

@@ -1,0 +1,61 @@
+# Case File
+[logo]
+
+
+[head=1][color=#cb0000]SECURITY DEPARTMENT[/color][/head]
+────────────────────────────────────────
+[head=2][color=#003366][bold]REPORT[/bold][/color][/head] – [color=#0055aa][bolditalic]DETECTIVE CASE FILE[/bolditalic][/color]
+────────────────────────────────────────
+[center][color=#aaaaaa][italic]Filed by the Detective or Investigating Officer to document the findings, evidence, and outcome of a criminal investigation[/italic][/color][/center]
+
+[head=2]Case Information[/head]
+[bold]Case Number / Title:[/bold] [form]
+[bold]Date & Time Opened:[/bold] [form]
+[bold]Assigned Investigator:[/bold] [form]
+[bold]Related Incident / Arrest Report ID (if applicable):[/bold] [form]
+
+[head=2]Summary of Case[/head]
+[form]
+
+[head=2]Persons Involved[/head]
+[bold]Suspect(s):[/bold] [form]
+[bold]Victim(s):[/bold] [form]
+[bold]Witness(es):[/bold] [form]
+
+[head=2]Evidence Collected[/head]
+[check] Forensic samples (blood, prints, fibers)
+[check] Photographic / video evidence
+[check] Weapon / item recovered
+[check] Digital or log evidence
+[check] Other: [form]
+
+[bold]Evidence Details / Storage Location:[/bold]
+[form]
+
+[head=2]Analysis & Findings[/head]
+[bold]Preliminary Findings:[/bold]
+[form]
+
+[bold]Conclusions / Recommended Action:[/bold]
+[check] Further investigation required
+[check] Suspect identified and detained
+[check] Case resolved – suspect cleared
+[check] Case unresolved – insufficient evidence
+[check] Other: [form]
+
+[head=2]Authorization[/head]
+[bold]Required Stamps/Signatures:[/bold]
+[bullet] Investigating Detective / Officer
+[bullet] Head of Security
+[bullet] Internal Affairs Agent (if involved in oversight)
+
+────────────────────────────────────────
+[color=#aaaaaa][italic]
+NOTICE: All investigative reports are confidential and must be archived with Security records. Unauthorized dissemination of investigative materials or evidence constitutes a Class-B offense under Corporate Law.
+[/italic][/color]
+
+
+
+
+
+[italic]Place for Security / IA Stamps and Signatures[/italic]
