@@ -1,0 +1,51 @@
+# Hazardous Equipment Release Permit
+[logo]
+
+
+[head=1][color=#c96dbf]SCIENCE DEPARTMENT[/color][/head]
+────────────────────────────────────────
+[head=2][color=#003366][bold]PERMISSION[/bold][/color][/head] – [color=#0055aa][bolditalic]HAZARDOUS EQUIPMENT RELEASE[/bolditalic][/color]
+────────────────────────────────────────
+[center][color=#aaaaaa][italic]Authorization for the controlled issue of experimental or high-risk scientific equipment to crew outside the Science Department[/italic][/color][/center]
+
+[head=2]Permit Details[/head]
+[bold]Date & Time:[/bold] [form]
+[bold]Authorizing Scientist / Technician:[/bold] [signature]
+[bold]Requesting Individual / Department:[/bold] [form]
+
+[head=2]Equipment Description[/head]
+[bold]Item / Device Name:[/bold] [form]
+[bold]Category:[/bold]
+[check] Prototype or experimental device
+[check] Hazardous tool or chemical emitter
+[check] Research board or circuit (e.g., lathe or fabricator)
+[check] Portable anomaly-related equipment
+[check] Other: [form]
+
+[bold]Serial / Batch Number (if applicable):[/bold] [form]
+[bold]Intended Purpose / Location of Use:[/bold] [form]
+
+[head=2]Safety Precautions and Conditions[/head]
+[check] Operator briefed on risks and proper handling
+[check] Use restricted to specific area: [form]
+[check] Must be returned after use or shift end
+[check] Prohibited from replication or modification
+[check] Monitoring by Science / Command required
+[check] Other: [form]
+
+[head=2]Authorization[/head]
+[bold]Required Stamps/Signatures:[/bold]
+[bullet] Authorizing Scientist or Research Director
+[bullet] Head of Receiving Department
+[bullet] Captain or appropriate Acting Command Authority (for high-risk items)
+
+────────────────────────────────────────
+[color=#aaaaaa][italic]
+NOTICE: This permit authorizes the temporary issue of research equipment deemed potentially hazardous or abusable. Unauthorized duplication, misuse, or modification constitutes a Class-A Research Violation and may result in disciplinary action or confiscation by Security.
+[/italic][/color]
+
+
+
+
+
+[italic]Place for Science / Command / Departmental Stamps and Signatures[/italic]
