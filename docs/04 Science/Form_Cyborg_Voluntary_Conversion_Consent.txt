@@ -1,0 +1,45 @@
+# Voluntary Conversion Consent
+[logo]
+
+
+[head=1][color=#c96dbf]SCIENCE DEPARTMENT[/color][/head]
+────────────────────────────────────────
+[head=2][color=#003366][bold]FORM[/bold][/color][/head] – [color=#0055aa][bolditalic]VOLUNTARY CYBORG CONVERSION CONSENT[/bolditalic][/color]
+────────────────────────────────────────
+[center][color=#aaaaaa][italic]Formal declaration of consent to permanent conversion into a positronic cyborg chassis under NanoTrasen Synthetic Oversight Protocols[/italic][/color][/center]
+
+[head=2]Subject Information[/head]
+[bold]Date & Time:[/bold] [form]
+[bold]Name of Individual:[/bold] [form]
+[bold]Department / Position:[/bold] [form]
+[bold]Species / Biological Classification:[/bold] [form]
+
+[head=2]Acknowledgment of Procedure[/head]
+[check] I understand that the cyborg conversion process involves the removal and integration of my brain into a synthetic chassis.
+[check] I acknowledge that following conversion, I will no longer possess biological form, and my consciousness will be subject to NanoTrasen’s Synthetic Oversight Protocols and Law Systems.
+[check] I understand that this process is irreversible.
+[check] I have had the opportunity to ask questions regarding the procedure and its consequences.
+[check] I consent to the procedure freely, without coercion or duress.
+[check] Other conditions / clarifications: [form]
+
+[head=2]Assigned Chassis Information[/head]
+[bold]Chassis Model / Type:[/bold] [form]
+[bold]Intended Unit Designation / Name:[/bold] [form]
+
+[head=2]Authorization[/head]
+[bold]Required Stamps/Signatures:[/bold]
+[bullet] Subject (personal consent)
+[bullet] Roboticist or Research Director
+[bullet] Chief Medical Officer
+[bullet] Captain or Acting Command Authority
+
+────────────────────────────────────────
+[color=#aaaaaa][italic]
+NOTICE: This consent represents a permanent legal waiver of biological personhood and establishes the subject as a registered synthetic under NanoTrasen jurisdiction. The individual’s rights henceforth fall under Synthetic Sentience and Oversight Directives §9–12. Unauthorized coercion or alteration of this document is a Class-A corporate offense.
+[/italic][/color]
+
+
+
+
+
+[italic]Place for Subject / Medical / Science / Command Stamps and Signatures[/italic]

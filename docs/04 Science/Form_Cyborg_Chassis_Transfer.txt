@@ -6,27 +6,28 @@
 ────────────────────────────────────────  
 [head=2][color=#003366][bold]FORM[/bold][/color][/head] – [color=#0055aa][bolditalic]CYBORG CHASSIS TRANSFER[/bolditalic][/color]  
 ────────────────────────────────────────  
-[center][color=#aaaaaa][italic]Documentation of a cyborg unit’s chassis transfer, including identifiers, reason, and authorizations for the change[/italic][/color][/center]  
+[center][color=#aaaaaa][italic]Documentation of a cyborg’s positronic brain transfer between chassis, including reasoning, verification, and authorizations[/italic][/color][/center]  
 
-[head=2]Transfer Details[/head]  
+[head=2]Transfer Information[/head]  
 [bold]Date & Time:[/bold] [form]  
 [bold]Supervising Roboticist / Technician:[/bold] [form]  
-[bold]AI Core (if applicable):[/bold] [form]  
+[bold]AI Core / Oversight System (if applicable):[/bold] [form]  
 
 [head=2]Unit Identification[/head]  
 [bold]Unit Designation / Name:[/bold] [form]  
-[bold]Previous Chassis Type / Model:[/bold] [form]  
-[bold]New Chassis Type / Model:[/bold] [form]  
-[bold]Assigned Name (after transfer):[/bold] [form]  
+[bold]Serial Number (Brain ID):[/bold] [form]  
+[bold]Previous Chassis Model / Type:[/bold] [form]  
+[bold]New Chassis Model / Type:[/bold] [form]  
+[bold]New Assigned Name (if applicable):[/bold] [form]  
 
 [head=2]Reason for Transfer[/head]  
-[check] Chassis damage or malfunction  
+[check] Chassis damaged or destroyed  
 [check] Task reassignment / specialization change  
 [check] Voluntary preference (AI or unit request)  
-[check] Research or testing procedure  
+[check] Testing or research operation  
 [check] Other: [form]  
 
-[bold]Summary / Notes on Transfer Procedure:[/bold]  
+[bold]Summary / Technical Notes:[/bold]  
 [form]  
 
 [head=2]Authorization[/head]  
@@ -35,11 +36,11 @@
 
 ────────────────────────────────────────  
 [color=#aaaaaa][italic]  
-NOTICE: Cyborg chassis transfers must be logged for traceability and legal accountability under the Synthetic Oversight Protocol. Unregistered chassis changes may result in administrative review or deactivation.  
+NOTICE: The positronic brain constitutes the legal personhood of a synthetic entity. Chassis destruction is considered material loss only; brain destruction constitutes irreversible termination under Synthetic Oversight Protocol §9-B. All transfers must be logged for traceability and liability purposes.  
 [/italic][/color]  
 
 
 
 
 
-[italic]Place for Science / Command Stamps and Signatures[/italic]  
+[italic]Place for Science / Command Stamps and Signatures[/itali]()

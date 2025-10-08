@@ -1,0 +1,55 @@
+# Cyborg Conversion Record
+[logo]
+
+
+[head=1][color=#c96dbf]SCIENCE DEPARTMENT[/color][/head]
+────────────────────────────────────────
+[head=2][color=#003366][bold]FORM[/bold][/color][/head] – [color=#0055aa][bolditalic]CYBORG CONVERSION RECORD[/bolditalic][/color]
+────────────────────────────────────────
+[center][color=#aaaaaa][italic]Documentation of the conversion of a human or synthetic consciousness into a cyborg chassis under NanoTrasen Synthetic Oversight Protocols[/italic][/color][/center]
+
+[head=2]Conversion Details[/head]
+[bold]Date & Time:[/bold] [form]
+[bold]Supervising Roboticist / Technician:[/bold] [form]
+[bold]AI Core (if applicable):[/bold] [form]
+
+[head=2]Subject Information[/head]
+[bold]Name of Individual:[/bold] [form]
+[bold]Species / Role Prior to Conversion:[/bold] [form]
+[bold]Physical Condition at Time of Conversion:[/bold] [form]
+[check] Living volunteer
+[check] Deceased / post-mortem conversion
+[check] Critically injured – life could not be sustained
+[check] Other: [form]
+
+[head=2]Chassis Information[/head]
+[bold]Assigned Chassis Model / Type:[/bold] [form]
+[bold]Unit Designation / Name (post-conversion):[/bold] [form]
+
+[head=2]Reason for Conversion[/head]
+[check] Voluntary enhancement / occupational reassignment
+[check] Emergency preservation of consciousness
+[check] Research or experimental procedure
+[check] Disciplinary or corrective conversion (requires Command approval)
+[check] Other: [form]
+
+[bold]Summary / Procedure Notes:[/bold]
+[form]
+
+[head=2]Authorization[/head]
+[bold]Required Stamps/Signatures:[/bold]
+[bullet] Roboticist or Research Director
+[bullet] Chief Medical Officer
+[bullet] Captain or Acting Command Authority
+[bullet] Internal Affairs Agent (if available)
+
+────────────────────────────────────────
+[color=#aaaaaa][italic]
+NOTICE: Cyborg conversion represents a permanent and legally binding transformation of the individual’s state of existence. Consent, or post-mortem justification, must be clearly documented. Unauthorized conversions constitute a Class-A corporate offense under Synthetic Oversight and Human Preservation Directives §12–17.
+[/italic][/color]
+
+
+
+
+
+[italic]Place for Science / Medical / Command Stamps and Signatures[/italic]

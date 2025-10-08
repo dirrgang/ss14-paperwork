@@ -1,0 +1,49 @@
+# Anomalous Bonding Consent
+[logo]
+
+
+[head=1][color=#c96dbf]SCIENCE DEPARTMENT[/color][/head]
+────────────────────────────────────────
+[head=2][color=#003366][bold]FORM[/bold][/color][/head] – [color=#0055aa][bolditalic]ANOMALOUS BONDING CONSENT[/bolditalic][/color]
+────────────────────────────────────────
+[center][color=#aaaaaa][italic]Written consent authorizing voluntary or continued hosting of an anomalous entity, artifact, or energy bond under NanoTrasen Research Oversight Protocols[/italic][/color][/center]
+
+[head=2]Subject Information[/head]
+[bold]Date & Time:[/bold] [form]
+[bold]Name & Role of Host Individual:[/bold] [signature]
+[bold]Species / Biological Classification:[/bold] [form]
+
+[head=2]Anomaly Details[/head]
+[bold]Anomaly Type / Designation:[/bold] [form]
+[bold]Origin or Discovery Location:[/bold] [form]
+[bold]Current Containment Status:[/bold] [form]
+
+[head=2]Consent Type[/head]
+[check] Voluntary Pre-Bonding Consent – I agree to intentionally form a bond with the listed anomaly for research or testing purposes.
+[check] Post-Bonding Consent – I am already bonded to the anomaly and consent to retaining the bond under supervision.
+
+[head=2]Acknowledgments[/head]
+[check] I understand that anomaly bonding may cause unpredictable psychological or physiological effects.
+[check] I understand that bonded individuals may pose a potential threat to station integrity.
+[check] I agree to submit to regular medical and scientific examination.
+[check] I agree to immediate reporting of changes in behavior, health, or anomalous manifestations.
+[check] I may withdraw consent only if the anomaly can be safely removed.
+[check] Other conditions or clarifications: [form]
+
+[head=2]Authorization[/head]
+[bold]Required Stamps/Signatures:[/bold]
+[bullet] Subject (host individual)
+[bullet] Research Director or Roboticist (overseeing anomaly study)
+[bullet] Chief Medical Officer
+[bullet] Captain or Acting Command Authority
+
+────────────────────────────────────────
+[color=#aaaaaa][italic]
+NOTICE: Anomalous bonding carries inherent and unpredictable risks. This consent form acknowledges voluntary assumption of those risks under NanoTrasen’s supervision. Unauthorized anomaly interaction or concealment of bonding constitutes a Class-A research violation under Corporate Safety Directive §47-C.
+[/italic][/color]
+
+
+
+
+
+[italic]Place for Subject / Medical / Science / Command Stamps and Signatures[/italic]
