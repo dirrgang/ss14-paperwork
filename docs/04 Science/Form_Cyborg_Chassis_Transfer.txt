@@ -1,0 +1,45 @@
+# Cyborg Chassis Transfer Record
+[logo]
+
+
+[head=1][color=#c96dbf]SCIENCE DEPARTMENT[/color][/head]  
+────────────────────────────────────────  
+[head=2][color=#003366][bold]FORM[/bold][/color][/head] – [color=#0055aa][bolditalic]CYBORG CHASSIS TRANSFER[/bolditalic][/color]  
+────────────────────────────────────────  
+[center][color=#aaaaaa][italic]Documentation of a cyborg unit’s chassis transfer, including identifiers, reason, and authorizations for the change[/italic][/color][/center]  
+
+[head=2]Transfer Details[/head]  
+[bold]Date & Time:[/bold] [form]  
+[bold]Supervising Roboticist / Technician:[/bold] [form]  
+[bold]AI Core (if applicable):[/bold] [form]  
+
+[head=2]Unit Identification[/head]  
+[bold]Unit Designation / Name:[/bold] [form]  
+[bold]Previous Chassis Type / Model:[/bold] [form]  
+[bold]New Chassis Type / Model:[/bold] [form]  
+[bold]Assigned Name (after transfer):[/bold] [form]  
+
+[head=2]Reason for Transfer[/head]  
+[check] Chassis damage or malfunction  
+[check] Task reassignment / specialization change  
+[check] Voluntary preference (AI or unit request)  
+[check] Research or testing procedure  
+[check] Other: [form]  
+
+[bold]Summary / Notes on Transfer Procedure:[/bold]  
+[form]  
+
+[head=2]Authorization[/head]  
+[bold]Required Stamps/Signatures:[/bold]  
+[bullet] Roboticist or Research Director  
+
+────────────────────────────────────────  
+[color=#aaaaaa][italic]  
+NOTICE: Cyborg chassis transfers must be logged for traceability and legal accountability under the Synthetic Oversight Protocol. Unregistered chassis changes may result in administrative review or deactivation.  
+[/italic][/color]  
+
+
+
+
+
+[italic]Place for Science / Command Stamps and Signatures[/italic]  
