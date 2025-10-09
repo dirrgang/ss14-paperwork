@@ -1,0 +1,54 @@
+# Therapy Session Record
+[logo]
+
+
+[head=1][color=#5b97bc]MEDICAL DEPARTMENT[/color][/head]  
+────────────────────────────────────────  
+[head=2][color=#003366][bold]FORM[/bold][/color][/head] – [color=#0055aa][bolditalic]THERAPY SESSION RECORD[/bolditalic][/color]  
+────────────────────────────────────────  
+[center][color=#aaaaaa][italic]Confidential record of a psychological support or counseling session conducted aboard NanoTrasen facilities[/italic][/color][/center]  
+
+[head=2]Session Information[/head]  
+[bold]Date & Time:[/bold] [form]  
+[bold]Therapist:[/bold] [signature]  
+[bold]Location of Session:[/bold] [form]  
+
+[head=2]Client Information[/head]  
+[bold]Client Name:[/bold] [form]  
+[bold]Department / Role:[/bold] [form]  
+[check] Voluntary session  
+[check] Mandatory session (by order of Command or Medical)  
+[check] Emergency / crisis intervention  
+[check] Other: [form]  
+
+[head=2]Session Summary[/head]  
+[bold]General Subject or Focus of Discussion:[/bold]  
+[form]  
+
+[bold]Observations / Remarks (behavioral, emotional, or situational):[/bold]  
+[form]  
+
+[bold]Follow-up or Recommendations:[/bold]  
+[check] Continue regular therapy sessions  
+[check] Referral to Chief Medical Officer  
+[check] Command consultation recommended  
+[check] Fit for duty  
+[check] Unfit for duty – temporary leave advised  
+[check] Other: [form]  
+
+[head=2]Authorization[/head]  
+[bold]Required Stamps/Signatures:[/bold]  
+[bullet] Therapist / Counselor  
+[bullet] Chief Medical Officer (if clinical record required)  
+[bullet] Captain or Acting Command Authority (for mandatory sessions only)  
+
+────────────────────────────────────────  
+[color=#aaaaaa][italic]  
+NOTICE: Therapy records are confidential medical documents protected under NanoTrasen Mental Health Policy §22-B. Disclosure to unauthorized personnel is prohibited. Misuse of this information constitutes a Class-B corporate privacy violation.  
+[/italic][/color]  
+
+
+
+
+
+[italic]Place for Medical / Command Stamps and Signatures[/italic]  
