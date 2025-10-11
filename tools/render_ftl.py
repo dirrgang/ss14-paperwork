@@ -9,6 +9,8 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Iterable, List, Tuple
 
+FTL_PREFIX_MARKER = "\u200b"  # zero-width space to avoid Fluent select parsing
+
 
 class PaperParseError(RuntimeError):
     """Raised when a .paper document cannot be processed."""
@@ -26,14 +28,33 @@ def normalise_component(component: str) -> str:
     cleaned = strip_parenthetical(component)
     cleaned = cleaned.lower().replace(" ", "-")
     cleaned = re.sub(r"[^a-z0-9-]+", "-", cleaned)
+    cleaned = re.sub(r"\d+", "", cleaned)
     cleaned = re.sub(r"-+", "-", cleaned).strip("-")
     return cleaned
 
 
 def clean_category_label(component: str) -> str:
     """Return a human-readable category label without parenthetical notes."""
-    cleaned = strip_parenthetical(component)
-    return cleaned
+    cleaned = strip_parenthetical(component).strip()
+    without_prefix = re.sub(r"^\d+\s*[-.)]?\s*", "", cleaned)
+    result = without_prefix.strip()
+    return result or cleaned
+
+
+def to_pascal_case(value: str) -> str:
+    """Convert a string into PascalCase segments."""
+    parts = re.split(r"[^0-9a-zA-Z]+", value)
+    result_parts: List[str] = []
+    for part in parts:
+        if not part:
+            continue
+        if part.isdigit():
+            continue
+        stripped = re.sub(r"\d+", "", part)
+        if not stripped:
+            continue
+        result_parts.append(stripped[0].upper() + stripped[1:].lower())
+    return "".join(result_parts)
 
 
 def yaml_quote(value: str) -> str:
@@ -66,8 +87,13 @@ class PaperDocument:
 
 
 def list_document_paths(root: Path) -> List[Path]:
+    candidates: set[Path] = set()
+    for pattern in ("*.txt", "*.paper"):
+        for path in root.rglob(pattern):
+            candidates.add(path)
+
     paths: List[Path] = []
-    for path in sorted(root.rglob("*.txt")):
+    for path in sorted(candidates):
         if should_skip(path, root):
             continue
         paths.append(path)
@@ -123,7 +149,10 @@ def parse_document(path: Path, root: Path) -> PaperDocument:
     )
 
     slug = path.stem
-    slug_key = normalise_component(slug) or slug.lower()
+    slug_key = normalise_component(slug)
+    if not slug_key:
+        fallback = re.sub(r"\d+", "", slug.lower())
+        slug_key = fallback or "document"
 
     return PaperDocument(
         path=path,
@@ -154,11 +183,20 @@ def render_ftl(documents: Iterable[PaperDocument]) -> str:
         lines.append(f"# title: {doc.title}")
         lines.append(f"# slug: {doc.slug}")
         lines.append(f"{doc.fluent_key} =")
-        if doc.body_lines:
-            for raw_line in doc.body_lines:
-                lines.append(f"    {raw_line}")
-        else:
-            lines.append("    ")
+        body_lines = list(doc.body_lines)
+        while body_lines and not body_lines[-1].strip():
+            body_lines.pop()
+        if body_lines:
+            for raw_line in body_lines:
+                formatted_line = raw_line
+                if formatted_line.startswith("["):
+                    # Fluent treats lines beginning with '[' as select variants. Prefix a zero-width
+                    # space so the document renders while preserving legacy markup.
+                    formatted_line = FTL_PREFIX_MARKER + formatted_line
+                lines.append(f"    {formatted_line}")
+        # Always add trailing blank lines so in-game rendering gets vertical spacing.
+        lines.append(f"    {FTL_PREFIX_MARKER}")
+        lines.append(f"    {FTL_PREFIX_MARKER}")
     lines.append("")
     return "\n".join(lines)
 
@@ -173,9 +211,12 @@ def render_documents_yaml(documents: Iterable[PaperDocument]) -> str:
         lines.append("  - key: " + yaml_quote(doc.fluent_key))
         lines.append("    name: " + yaml_quote(doc.title))
         if doc.categories:
+            primary_category = doc.categories[0]
+            primary_key = normalise_component(primary_category)
+            primary_id = to_pascal_case(primary_key) if primary_key else to_pascal_case(primary_category)
+            category_value = primary_id or primary_category
             lines.append("    categories:")
-            for category in doc.categories:
-                lines.append("      - " + yaml_quote(category))
+            lines.append("      - " + yaml_quote(category_value))
     lines.append("")
     return "\n".join(lines)
 

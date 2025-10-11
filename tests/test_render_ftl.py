@@ -3,6 +3,7 @@ from pathlib import Path
 import pytest
 
 from tools.render_ftl import (
+    FTL_PREFIX_MARKER,
     PaperParseError,
     discover_documents,
     render_documents_yaml,
@@ -60,8 +61,8 @@ def test_render_output_includes_category_headers(tmp_path: Path) -> None:
     documents = discover_documents(docs_dir)
     output = render_ftl(documents)
 
-    assert "# 04 Engineering & Logistics" in output
-    assert "doc-text-printer-04-engineering-logistics-power-plan" in output
+    assert "# Engineering & Logistics" in output
+    assert "doc-text-printer-engineering-logistics-power-plan" in output
 
 
 def test_documents_yaml_contains_titles(tmp_path: Path) -> None:
@@ -78,7 +79,7 @@ def test_documents_yaml_contains_titles(tmp_path: Path) -> None:
     assert 'documents:' in yaml_output
     assert 'key: "doc-text-printer-identity-id-replacement"' in yaml_output
     assert 'name: "ID Replacement Request"' in yaml_output
-    assert '      - "identity"' in yaml_output
+    assert '      - "Identity"' in yaml_output
 
 
 def test_missing_title_line_raises(tmp_path: Path) -> None:
@@ -99,3 +100,22 @@ def test_empty_document_raises(tmp_path: Path) -> None:
 
     with pytest.raises(PaperParseError):
         discover_documents(docs_dir)
+
+
+def test_render_ftl_bracket_lines_prefixed(tmp_path: Path) -> None:
+    docs_dir = tmp_path / "docs"
+    write_paper(
+        docs_dir / "identity" / "logo-test.paper",
+        "Logo Test",
+        "[logo]\nSome text\n",
+    )
+
+    documents = discover_documents(docs_dir)
+    output = render_ftl(documents)
+
+    lines = output.splitlines()
+    key_index = lines.index("doc-text-printer-identity-logo-test =")
+    assert lines[key_index + 1] == f"    {FTL_PREFIX_MARKER}[logo]"
+    assert lines[key_index + 2] == "    Some text"
+    assert lines[key_index + 3] == f"    {FTL_PREFIX_MARKER}"
+    assert lines[key_index + 4] == f"    {FTL_PREFIX_MARKER}"
