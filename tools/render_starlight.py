@@ -11,6 +11,7 @@ import sys
 from typing import Dict, List, Mapping, MutableMapping, Sequence
 
 if __package__:
+    from .category_utils import allocate_id, allocate_slug, ensure_document_id, ensure_document_slug
     from .render_ftl import (
         PaperDocument,
         PaperParseError,
@@ -26,6 +27,7 @@ else:
         sys.path.insert(0, str(CURRENT_DIR))
     if str(PARENT_DIR) not in sys.path:
         sys.path.insert(0, str(PARENT_DIR))
+    from category_utils import allocate_id, allocate_slug, ensure_document_id, ensure_document_slug
     from render_ftl import (
         PaperDocument,
         PaperParseError,
@@ -48,67 +50,6 @@ class CategoryInfo:
     lathe_id: str
     comment: str
     order: int
-
-
-def alphabetic_suffix(index: int) -> str:
-    """Return an alphabetical suffix sequence (A, B, ..., Z, AA, AB, ...)."""
-    if index < 0:
-        raise ValueError("index must be non-negative")
-    result = ""
-    value = index
-    while True:
-        value, remainder = divmod(value, 26)
-        result = chr(ord("A") + remainder) + result
-        if value == 0:
-            break
-        value -= 1
-    return result
-
-
-def allocate_lathe_key(
-    base_key: str,
-    existing_keys: set[str],
-    key_counters: Dict[str, int],
-) -> str:
-    """Allocate a unique lathe key without digits, using alphabetic suffixes."""
-    key = base_key or "category"
-    if key not in existing_keys:
-        existing_keys.add(key)
-        key_counters.setdefault(key, 0)
-        return key
-
-    counter = key_counters.get(base_key, 0)
-    while True:
-        suffix = alphabetic_suffix(counter).lower()
-        candidate = f"{base_key}-{suffix}"
-        counter += 1
-        if candidate not in existing_keys:
-            existing_keys.add(candidate)
-            key_counters[base_key] = counter
-            return candidate
-
-
-def allocate_lathe_id(
-    base_id: str,
-    existing_ids: set[str],
-    id_counters: Dict[str, int],
-) -> str:
-    """Allocate a unique lathe category id without digits."""
-    identifier = base_id or "Category"
-    if identifier not in existing_ids:
-        existing_ids.add(identifier)
-        id_counters.setdefault(identifier, 0)
-        return identifier
-
-    counter = id_counters.get(identifier, 0)
-    while True:
-        suffix = alphabetic_suffix(counter)
-        candidate = f"{identifier}{suffix}"
-        counter += 1
-        if candidate not in existing_ids:
-            existing_ids.add(candidate)
-            id_counters[identifier] = counter
-            return candidate
 
 
 def primary_category(doc: PaperDocument) -> str:
@@ -160,23 +101,28 @@ def build_category_infos(
 
         lathe_key_override = override.get("lathe_key")
         if isinstance(lathe_key_override, str) and lathe_key_override.strip():
-            lathe_key = lathe_key_override.strip()
+            override_slug = normalise_component(lathe_key_override)
         else:
-            lathe_key = normalise_component(lathe_label) or normalise_component(category) or "misc"
-
-        base_key = lathe_key or "category"
-        lathe_key = allocate_lathe_key(base_key, existing_keys, key_counters)
+            override_slug = ""
+        base_slug = (
+            override_slug
+            or normalise_component(lathe_label)
+            or normalise_component(category)
+            or "misc"
+        )
+        base_slug = ensure_document_slug(base_slug)
+        lathe_key = allocate_slug(base_slug, existing_keys, key_counters)
 
         lathe_id_override = override.get("lathe_id")
         if isinstance(lathe_id_override, str) and lathe_id_override.strip():
-            base_id = to_pascal_case(lathe_id_override)
+            base_id_source = lathe_id_override.strip()
         else:
-            base_id_source = lathe_label or category
-            base_id = to_pascal_case(base_id_source)
+            base_id_source = to_pascal_case(lathe_label) or to_pascal_case(category)
 
-        if not base_id:
-            base_id = to_pascal_case(category) or "Category"
-        lathe_id = allocate_lathe_id(base_id, existing_ids, id_counters)
+        if not base_id_source:
+            base_id_source = to_pascal_case(category) or "Category"
+        base_id = ensure_document_id(base_id_source)
+        lathe_id = allocate_id(base_id, existing_ids, id_counters)
 
         comment = str(override.get("comment", lathe_label))
         order_value = override.get("order")

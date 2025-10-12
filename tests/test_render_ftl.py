@@ -79,7 +79,7 @@ def test_documents_yaml_contains_titles(tmp_path: Path) -> None:
     assert 'documents:' in yaml_output
     assert 'key: "doc-text-printer-identity-id-replacement"' in yaml_output
     assert 'name: "ID Replacement Request"' in yaml_output
-    assert '      - "Identity"' in yaml_output
+    assert '      - "DocumentIdentity"' in yaml_output
 
 
 def test_missing_title_line_raises(tmp_path: Path) -> None:

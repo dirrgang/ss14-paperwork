@@ -21,14 +21,14 @@ Plain-text `.paper` forms converted into a Starlight-compatible document printer
 
 `tools/render_starlight.py` reuses the paperwork parser and writes five artefacts to `dist/starlight/`:
 
-- `documents.yml` for `PrintedDocumentâ€¦` prototypes (hidden from the spawn menu by default).
+- `documents.yml` for `PrintedDocumentÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦` prototypes (hidden from the spawn menu by default).
 - `printer.yml` for document-printer lathe recipes, using `SheetPrinter=100` unless overridden.
 - `pack_docs.yml` to bulk-register the generated recipes into a lathe recipe pack.
 - `lathe-categories.ftl` with Fluent entries for any category labels used in the outputs.
 - `categories.yml` with `latheCategory` prototype definitions referencing those Fluent keys.
 
-Categories in `dist/documents.yml` use the same PascalCase identifiers that appear in `categories.yml` to keep downstream wiring consistent.
-Use python tools/verify_bundle.py after rendering to check for broken links between these artefacts.
+The generator prefixes lathe category slugs and ids with `document` to avoid collisions with other crafting categories in the game.
+Categories in `dist/documents.yml` use the same `Documentâ€¦`-prefixed identifiers that appear in `categories.yml` to keep downstream wiring consistent.
 
 Pass `--category-config` with a JSON object keyed by the top-level paperwork directory name to override labels, ordering, or Fluent keys. Example:
 

@@ -46,8 +46,8 @@ def test_render_outputs_cover_all_sections(tmp_path: Path) -> None:
     )
     assert "PrintedDocumentIdentityIdReplacementRecipe" in recipes
     assert "# Security" in recipes
-    assert "    - Identity" in recipes
-    assert "    - Security" in recipes
+    assert "    - DocumentIdentity" in recipes
+    assert "    - DocumentSecurity" in recipes
     assert "SheetPrinter: 40" in recipes
 
     pack = render_recipe_pack(documents, categories, pack_id="MyDocs")
@@ -56,12 +56,12 @@ def test_render_outputs_cover_all_sections(tmp_path: Path) -> None:
     assert "PrintedDocumentSecurityAccessReviewRecipe" in pack
 
     lathe_categories = render_lathe_categories(categories)
-    assert "lathe-category-identity" in lathe_categories
-    assert "lathe-category-security" in lathe_categories
+    assert "lathe-category-document-identity" in lathe_categories
+    assert "lathe-category-document-security" in lathe_categories
     lathe_category_prototypes = render_lathe_category_prototypes(categories)
     assert "- type: latheCategory" in lathe_category_prototypes
-    assert "id: Identity" in lathe_category_prototypes
-    assert "name: lathe-category-security" in lathe_category_prototypes
+    assert "id: DocumentIdentity" in lathe_category_prototypes
+    assert "name: lathe-category-document-security" in lathe_category_prototypes
 
 
 def test_duplicate_category_slugs_get_disambiguated(tmp_path: Path) -> None:
@@ -81,8 +81,8 @@ def test_duplicate_category_slugs_get_disambiguated(tmp_path: Path) -> None:
     categories = build_category_infos(documents, {})
 
     lathe_categories = render_lathe_categories(categories)
-    assert "lathe-category-alpha = Alpha" in lathe_categories
-    assert "lathe-category-alpha-a = Alpha!!" in lathe_categories
+    assert "lathe-category-document-alpha = Alpha" in lathe_categories
+    assert "lathe-category-document-alpha-a = Alpha!!" in lathe_categories
     prototype_output = render_lathe_category_prototypes(categories)
-    assert "id: Alpha" in prototype_output
-    assert "id: AlphaA" in prototype_output
+    assert "id: DocumentAlpha" in prototype_output
+    assert "id: DocumentAlphaA" in prototype_output
