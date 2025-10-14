@@ -1,0 +1,51 @@
+# Head of Staff Appointment Order
+[logo]
+
+
+[head=1][color=#1b67a5]STATION COMMAND[/color][/head]  
+────────────────────────────────────────  
+[head=2][color=#003366][bold]ORDER[/bold][/color][/head] – [color=#0055aa][bolditalic]HEAD OF STAFF APPOINTMENT[/bolditalic][/color]  
+────────────────────────────────────────  
+[center][color=#aaaaaa][italic]Official order designating a qualified crew member as a Head of Department or Acting Head under NanoTrasen Corporate Command Structure[/italic][/color][/center]  
+
+[head=2]Appointment Details[/head]  
+[bold]Date & Time:[/bold] [form]  
+[bold]Appointing Officer (Captain / Acting Command):[/bold] [signature]  
+[bold]Department Assigned:[/bold]  
+[check] Engineering  
+[check] Medical  
+[check] Science  
+[check] Security  
+[check] Supply / Cargo  
+[check] Service  
+[check] Personnel / Administration (Head of Personnel)  
+[check] Acting Command (temporary)  
+[check] Other: [form]  
+
+[head=2]Appointed Individual[/head]  
+[bold]Name of Appointee:[/bold] [form]  
+[bold]Current Position / Role:[/bold] [form]  
+[bold]Qualifications / Experience (brief summary):[/bold] [form]  
+
+[head=2]Appointment Type[/head]  
+[check] Permanent appointment – full authority of department head  
+[check] Temporary appointment – valid until end of shift or recall  
+[check] Emergency appointment – valid for crisis duration only  
+[check] Other: [form]  
+
+[head=2]Authorization[/head]  
+[bold]Required Stamps/Signatures:[/bold]  
+[bullet] Appointing Officer (Captain or Acting Command)  
+[bullet] Head of Personnel (for administrative record)  
+[bullet] Internal Affairs Agent (if present for confirmation)  
+
+────────────────────────────────────────  
+[color=#aaaaaa][italic]  
+NOTICE: This order grants the designated individual full operational authority over the specified department for the duration of their appointment. Abuse of departmental powers, dereliction of duty, or misconduct under this authority constitutes a Class-A violation under Corporate Command Directives §5–9.  
+[/italic][/color]  
+
+
+
+
+
+[italic]Place for Command / Administrative Stamps and Signatures[/italic]  

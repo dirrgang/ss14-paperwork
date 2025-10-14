@@ -1,43 +1,47 @@
-# Command Succession
+# Command Succession Order
 [logo]
 
 
-[head=1][color=#1b67a5]STATION COMMAND[/head][/color]
-────────────────────────────────────────
-[head=2][color=#003366][bold]STATEMENT[/bold][/color][/head] – [color=#0055aa][bolditalic]SUCCESSION OF COMMAND[/bolditalic][/color]
-────────────────────────────────────────
-[center][color=#aaaaaa][italic]Issued under NanoTrasen Command Protocols – Confers Acting Captain authority in absence of a Station Captain[/italic][/color][/center]
+[head=1][color=#1b67a5]STATION COMMAND[/color][/head]  
+────────────────────────────────────────  
+[head=2][color=#003366][bold]ORDER[/bold][/color][/head] – [color=#0055aa][bolditalic]COMMAND SUCCESSION[/bolditalic][/color]  
+────────────────────────────────────────  
+[center][color=#aaaaaa][italic]Formal declaration of change in station command authority due to the absence, incapacitation, or death of the commanding officer[/italic][/color][/center]  
 
-[head=2]Details[/head]
-[bold]Date & Time:[/bold] [form]
-[bold]Documenting Individual:[/bold] [signature]
+[head=2]Succession Context[/head]  
+[bold]Date & Time Issued:[/bold] [form]  
+[bold]Reason for Succession:[/bold]  
+[check] Captain did not arrive for assigned shift  
+[check] Captain incapacitated / medically unfit for duty  
+[check] Captain deceased or confirmed missing  
+[check] Command override by Central Command  
+[check] Other: [form]  
 
-[head=2]Situation[/head]
-[check] Captain absent at shift start
-[check] Captain incapacitated / missing
-[check] Captain deceased
-[check] Other: [form]
+[bold]Incident Summary (if applicable):[/bold]  
+[form]  
 
-[head=2]Appointed Acting Captain[/head]
-[bold]Name:[/bold] [form]
-[bold]Current Position:[/bold] [form]
-[bold]Reason for Selection[/bold]
-[check] Highest remaining chain in command
-[check] Other: [form]
+[head=2]Acting Command Appointment[/head]  
+[bold]Name of Acting Captain / Commanding Officer:[/bold] [form]  
+[bold]Department / Previous Position:[/bold] [form]  
+[bold]Authority Level Granted:[/bold]  
+[check] Full station command authority  
+[check] Interim authority – pending Central Command confirmation  
+[check] Emergency authority – valid for duration of crisis  
+[check] Other: [form]  
 
+[head=2]Succession Chain[/head]  
+[bold]Next in Command (if Acting Captain becomes incapacitated):[/bold] [form]  
+[bold]Additional Notes / Conditions (if any):[/bold] [form]  
 
-[head=2](Required) Authorization[/head]
-[italic]All available Heads of Staff must confirm this appointment with signature or departmental stamp.[/italic]
+[head=2]Authorization[/head]  
+[bold]Required Stamps/Signatures:[/bold]  
+[bullet] Head of Personnel  
+[bullet] Remaining Command Staff (minimum 2/3 available required)  
+[bullet] Internal Affairs Agent (if present for verification)  
 
-[head=2]Final Confirmation[/head]
-[bold]Appointed Acting Captain Acknowledgement:[/bold] [signature]
+────────────────────────────────────────  
+[color=#aaaaaa][italic]  
+NOTICE: This order establishes legitimate command authority aboard the station in accordance with NanoTrasen Command Directive §11-C. Unauthorized assumption of command or falsification of this document constitutes mutiny under Corporate Law and may result in immediate dismissal or prosecution.  
+[/italic][/color]  
 
-────────────────────────────────────────
-[color=#aaaaaa][italic]
-NOTICE: This document formalizes station command succession under NanoTrasen protocols. The appointed Acting Captain holds the listed authority only while valid signatures/stamps from available Command are present.
-[/italic][/color]
-
-
-
-
-[color=#aaaaaa][italic]Place for Additional Stamps / Central Command Validation[/italic][/color]
+[italic]Place for Command / Administrative Stamps and Signatures[/italic]  

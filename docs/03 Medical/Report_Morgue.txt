@@ -1,0 +1,64 @@
+# Morgue Report
+[logo]
+
+[head=1][color=#5b97bc]MEDICAL DEPARTMENT[/color][/head]  
+────────────────────────────────────────  
+[head=2][color=#003366][bold]REPORT[/bold][/color][/head] – [color=#0055aa][bolditalic]MORGUE RECORD[/bolditalic][/color]  
+────────────────────────────────────────  
+[center][color=#aaaaaa][italic]Official medical record documenting the confirmed death of a crew member and the results of post-mortem examination[/italic][/color][/center]  
+
+[head=2]Deceased Information[/head]  
+[bold]Date & Time of Death:[/bold] [form]  
+[bold]Full Name of Deceased:[/bold] [form]  
+[bold]Department / Position:[/bold] [form]  
+[bold]Species / Biological Type:[/bold] [form]  
+[bold]Body Recovered By:[/bold] [form]  
+
+[head=2]Death Details[/head]  
+[bold]Location of Death (if known):[/bold] [form]  
+[bold]Condition of Body on Arrival:[/bold] [form]  
+[bold]Presumed Time Since Death:[/bold] [form]  
+[bold]Observed Wounds / Trauma:[/bold] [form]  
+
+[head=2]Cause of Death[/head]  
+[check] Blunt trauma / physical injury  
+[check] Ballistic / projectile wounds  
+[check] Thermal / burn injury  
+[check] Asphyxiation / decompression  
+[check] Toxin / chemical exposure  
+[check] Radiation exposure  
+[check] Biological infection / anomaly  
+[check] Cardiac or medical failure  
+[check] Unknown – further analysis required  
+[check] Other: [form]  
+
+[bold]Summary of Findings / Medical Notes:[/bold]  
+[form]  
+
+[head=2]Post-Mortem Processing[/head]  
+[check] Body stored in morgue  
+[check] Released to Security (investigation)  
+[check] Released to next of kin (if applicable)  
+[check] Cremated  
+[check] Spaced / disposed of per policy  
+[check] Other: [form]  
+
+[bold]Additional Remarks / Identification Notes:[/bold]  
+[form]  
+
+[head=2]Authorization[/head]  
+[bold]Required Stamps/Signatures:[/bold]  
+[bullet] Attending Physician / Coroner  
+[bullet] Chief Medical Officer  
+[bullet] Head of Security (if death involves investigation)  
+
+────────────────────────────────────────  
+[color=#aaaaaa][italic]  
+NOTICE: All crew fatalities must be recorded for medical and legal purposes under NanoTrasen Health & Safety Directive §14-D. Destruction or falsification of death records constitutes a Class-A offense. Copies must be archived with both the Medical and Security Departments.  
+[/italic][/color]  
+
+
+
+
+
+[italic]Place for Medical / Security Stamps and Signatures[/italic]  
