@@ -1,0 +1,67 @@
+# Salvage Operation Report
+[logo]
+
+
+[head=1][color=#b18644]SUPPLY DEPARTMENT[/color][/head]
+────────────────────────────────────────
+[head=2][color=#003366][bold]REPORT[/bold][/color][/head] – [color=#0055aa][bolditalic]SALVAGE OPERATION RECORD[/bolditalic][/color]
+────────────────────────────────────────
+[center][color=#aaaaaa][italic]Filed by the Salvage Team Leader to summarize mission outcomes, crew status, threats, and recovered materials[/italic][/color][/center]
+
+[head=2]Operation Details[/head]
+[bold]Team Leader:[/bold] [signature]
+[bold]Salvage Vessel / Shuttle Name:[/bold] [form]
+[bold]Assigned Crew Members:[/bold] [form]
+
+[head=2]Mission Summary[/head]
+[bold]Objective / Target Wreck Designation:[/bold] [form]
+[bold]Estimated Wreck Location (sector / coordinates):[/bold] [form]
+[bold]Brief Description of Operation:[/bold]
+[form]
+
+[head=2]Encountered Hazards & Threats[/head]
+[check] Hostile fauna (space carp, entities, anomalies)
+[check] Hostile crew / armed intruders
+[check] Environmental hazard (pressure, temperature, radiation)
+[check] Structural instability / wreck collapse
+[check] Electrical / plasma fire hazards
+[check] Other: [form]
+
+[bold]Threat Summary and Actions Taken:[/bold]
+[form]
+
+[head=2]Salvage Recovery[/head]
+[bold]Recovered Materials / Equipment:[/bold] [form]
+[bold]Recovered Artifacts / Anomalies (if any):[/bold] [form]
+[bold]Contraband or Illegal Materials Found:[/bold] [form]
+[check] Contraband confiscated and delivered to Security
+[check] Contraband destroyed on-site
+[check] Contraband retained for analysis
+[check] None found
+
+[head=2]Team Condition[/head]
+[check] All crew returned safely
+[check] Injuries sustained (details below)
+[check] Casualties confirmed
+[check] Missing in action
+[bold]Medical / Psychological Notes (if applicable):[/bold] [form]
+
+[head=2]Recommendations & Notes[/head]
+[form]
+
+[head=2]Authorization[/head]
+[bold]Required Stamps/Signatures:[/bold]
+[bullet] Salvage Team Leader
+[bullet] Quartermaster
+[bullet] Head of Security (if contraband recovered or incident occurred)
+
+────────────────────────────────────────
+[color=#aaaaaa][italic]
+NOTICE: All salvage operations must be documented under NanoTrasen Salvage & Recovery Protocol §22. Recovered materials remain corporate property until cleared by the Quartermaster and verified by Security. Failure to report contraband, loss of crew, or damage to station assets constitutes a Class-B offense.
+[/italic][/color]
+
+
+
+
+
+[italic]Place for Supply / Security Stamps and Signatures[/italic]

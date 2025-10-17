@@ -1,0 +1,60 @@
+# Equipment Request Form
+[logo]
+
+
+[head=1][color=#1b67a5]STATION ADMINISTRATION[/color][/head]  
+────────────────────────────────────────  
+[head=2][color=#003366][bold]REQUEST[/bold][/color][/head] – [color=#0055aa][bolditalic]EQUIPMENT ISSUE[/bolditalic][/color]  
+────────────────────────────────────────  
+[center][color=#aaaaaa][italic]Formal request for tools, machinery, or departmental equipment required for station duties or authorized research[/italic][/color][/center]  
+
+[head=2]Request Information[/head]  
+[bold]Date & Time:[/bold] [form]  
+[bold]Requesting Individual:[/bold] [signature]  
+[bold]Receiving Department (providing equipment):[/bold]  
+[check] Engineering  
+[check] Science  
+[check] Medical  
+[check] Security  
+[check] Supply / Cargo  
+[check] Service  
+[check] Other: [form]  
+
+[head=2]Requested Equipment[/head]  
+[bold]Item / Device Name:[/bold] [form]  
+[bold]Quantity Requested:[/bold] [form]  
+[bold]Purpose of Use:[/bold] [form]  
+
+[head=2]Risk & Authorization[/head]  
+[check] Standard tool / low-risk equipment  
+[check] Experimental / potentially hazardous item (requires Science or Command approval)  
+[check] Engineering-grade tool (RCD, emitters, etc.)  
+[check] Security-restricted equipment  
+[check] Other: [form]  
+
+[bold]Special Conditions or Safety Precautions (if any):[/bold]  
+[form]  
+
+[head=2]Delivery or Pickup Method[/head]  
+[check] To be delivered by Supply / Engineering team  
+[check] To be picked up by requester  
+[check] To be installed or set up on-site  
+[check] Other: [form]  
+
+[head=2]Authorization[/head]  
+[bold]Required Stamps/Signatures:[/bold]  
+[bullet] Requesting Individual  
+[bullet] Head of Receiving Department (or designated engineer/technician)  
+[bullet] Captain / Acting Command Authority (for restricted or high-value items)  
+
+────────────────────────────────────────  
+[color=#aaaaaa][italic]  
+NOTICE: All interdepartmental equipment transfers must be documented for asset tracking and liability purposes.  
+Unauthorized duplication, misuse, or removal of tools without proper paperwork constitutes a Class-B corporate offense under Asset Management Directive §12.  
+[/italic][/color]  
+
+
+
+
+
+[italic]Place for Departmental Stamps and Signatures[/italic]

@@ -1,0 +1,59 @@
+# Post-Transplant Identity Acknowledgment
+[logo]
+
+
+[head=1][color=#5b97bc]MEDICAL DEPARTMENT[/color][/head]
+────────────────────────────────────────
+[head=2][color=#003366][bold]FORM[/bold][/color][/head] – [color=#0055aa][bolditalic]POST-TRANSPLANT IDENTITY ACKNOWLEDGMENT[/bolditalic][/color]
+────────────────────────────────────────
+[center][color=#aaaaaa][italic]Issued to individuals revived or reconstructed within a new biological body under NanoTrasen medical recovery programs[/italic][/color][/center]
+
+[head=2]Patient Information[/head]
+[bold]Date & Time of Revival:[/bold] [form]
+[bold]Recovered Name (if remembered):[/bold] [form]
+[bold]Previous Occupation / Department (if remembered):[/bold] [form]
+[bold]Species / Classification (current body):[/bold] [form]
+
+[head=2]Medical Summary[/head]
+[color=#aaaaaa][italic]The following summary is provided for your awareness and medical record:[/italic][/color]
+[bullet] Your original body sustained irreversible damage and could not be repaired or revived.
+[bullet] Your neural substrate or consciousness pattern was successfully transferred into a compatible donor body.
+[bullet] This donor body was medically verified as unclaimed and viable under Corporate Directive §18.
+[bullet] Your genetic, biometric, and neurological signatures now correspond to the new body.
+[bullet] Your current biological and psychological adaptation will be monitored by Medical.
+
+[bold]Additional Notes from Medical Staff:[/bold]
+[form]
+
+[head=2]Orientation & Expectations[/head]
+[color=#aaaaaa][italic]Please review the following informational statements:[/italic][/color]
+[bullet] Some residual memory gaps, dissociation, or identity confusion are normal during adaptation.
+[bullet] Physical coordination and reflexes may differ due to new muscular or skeletal structure.
+[bullet] You may request counseling or therapy support at any time through the Medical Department.
+[bullet] You are expected to resume your duties once medically cleared by the Chief Medical Officer.
+
+[head=2]Patient Acknowledgment[/head]
+[color=#aaaaaa][italic]Please complete the section below to update your identification and acknowledge the procedure:[/italic][/color]
+
+[bold]I hereby confirm that I have read and understood the summary above and acknowledge possession of a new biological body provided by NanoTrasen Medical Services.[/bold]
+
+[bold]Current Name / Identity (as chosen or remembered):[/bold] [form]
+[bold]Preferred Name (if different):[/bold] [form]
+[bold]Statement or Reflection (optional):[/bold] [form]
+
+[head=2]Authorization[/head]
+[bold]Required Stamps/Signatures:[/bold]
+[bullet] Patient / Subject
+[bullet] Attending Physician or Chief Medical Officer
+[bullet] Counselor / Therapist (if present during reawakening)
+
+────────────────────────────────────────
+[color=#aaaaaa][italic]
+NOTICE: This document serves as both identity confirmation and psychological stabilization aid following a post-mortem neural recovery. The use of donor bodies is regulated under NanoTrasen Medical and Ethical Directive §18. All records remain confidential. Attempts to claim ownership of previous biological remains or assets will be reviewed by Corporate Legal Division.
+[/italic][/color]
+
+
+
+
+
+[italic]Place for Medical / Patient Signatures and Stamps[/italic]

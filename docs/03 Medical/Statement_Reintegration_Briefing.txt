@@ -1,0 +1,36 @@
+# Reintegration Briefing
+[logo]
+
+
+[head=1][color=#5b97bc]WELCOME BACK TO SERVICE[/color][/head]
+────────────────────────────────────────
+[center][color=#aaaaaa][italic]Issued by NanoTrasen Medical & Personnel Administration – “Every mind deserves a second chance.”[/italic][/color][/center]
+
+[head=2]Your Revival Was a Success[/head]
+Congratulations, crew member! Following the unfortunate loss of your prior body, NanoTrasen’s cutting-edge [bold]Neural Recovery & Reinstantiation Program[/bold] has successfully restored your consciousness to operational status. You are alive, alert, and ready to return to duty — in a slightly improved, or at least different, condition.
+
+[head=2]About Your New Body[/head]
+[bullet] Your current body was obtained from [bold]approved donor stock[/bold] under Medical Directive §18.
+[bullet] While it may not be “yours” in the traditional sense, it now fully qualifies as [bold]your authorized biological vessel[/bold].
+[bullet] Any differences in height, build, or complexion are purely cosmetic and should not affect your work performance.
+[bullet] If you experience mild detachment, phantom memories, or existential unease, please report to the [bold]Therapy Office[/bold]. These effects typically resolve within one to three shifts.
+
+[head=2]Your Responsibilities[/head]
+[bullet] Treat your new body as corporate property entrusted to your care.
+[bullet] Follow all Medical and Security protocols regarding neural or genetic maintenance.
+[bullet] Report any unfamiliar physical impulses, memory inconsistencies, or unexplained abilities to the Chief Medical Officer immediately.
+[bullet] Remember: you are still you — but a safer, stronger, and more [italic]asset-friendly[/italic] version of yourself.
+
+[head=2]Adjustment & Aftercare[/head]
+[bullet] Avoid strenuous activity or combat within the first 30 minutes of reactivation.
+[bullet] Hydrate frequently; foreign tissue integration can cause dehydration.
+[bullet] Expect minor neural echo phenomena (“voices,” “shadows,” “lingering smells”). These are harmless artifacts of consciousness upload latency.
+[bullet] If symptoms persist, your therapist may prescribe mild sedatives or personality resynchronization therapy.
+
+[head=2]Identity & Records[/head]
+Your personnel records have been updated to reflect your revival and reassignment. If your [bold]previous body remains unrecovered[/bold], your file now lists [bold]“Reinstantiated”[/bold] as your physical status. You may select a [bold]preferred name or pronouns[/bold] if your current ID tag does not match your previous record.
+
+[head=2]Final Note[/head]
+NanoTrasen thanks you for your continued dedication and flexibility in the face of mortality. Your resilience reflects the best of our corporate values: [center][color=#5b97bc][bolditalic]“Efficiency, Continuity, Immortality.”[/bolditalic][/color][/center]
+
+[color=#aaaaaa][italic]Remember: death is temporary — employment is not.[/italic][/color]

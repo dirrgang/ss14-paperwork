@@ -1,0 +1,53 @@
+# Body Repossession / Donor Allocation
+[logo]
+
+
+[head=1][color=#5b97bc]MEDICAL DEPARTMENT[/color][/head]
+────────────────────────────────────────
+[head=2][color=#003366][bold]FORM[/bold][/color][/head] – [color=#0055aa][bolditalic]BODY REPOSSESSION / DONOR ALLOCATION[/bolditalic][/color]
+────────────────────────────────────────
+[center][color=#aaaaaa][italic]Authorization to repurpose a recovered biological body as a donor chassis for transplantation, cloning, or integration with a healthy brain when original brain consent is unavailable or impossible.[/italic][/color][/center]
+
+[head=2]Case Reference[/head]
+[bold]Date & Time:[/bold] [form]
+[bold]Processing Individual:[/bold] [form]
+
+[head=2]Body Identification[/head]
+[bold]Name on Record (if any):[/bold] [form]
+[bold]Species / Biological Type:[/bold] [form]
+[bold]Condition Summary:[/bold] [form]
+
+[head=2]Eligibility Checks (tick all that apply)[/head]
+[check] Original brain absent or irreparably destroyed
+[check] Body tissues intact and viable for transplant / hosting
+[check] No active infectious / anomalous agent detected
+[check] No forensic hold or active criminal investigation
+[check] Ethical review completed / waiver documented
+[check] Other conditions / notes: [form]
+
+[head=2]Intended Use (select primary purpose)[/head]
+[check] Donor body for biological brain transplant
+[check] Host chassis for synthetic / cyborg integration
+[check] Research specimen
+[check] Medical training / study
+[check] Other: [form]
+
+[head=2]Processing & Safety Measures[/head]
+[bold]Planned Procedure / Protocols:[/bold]
+[form]
+
+[head=2]Authorization (required)[/head]
+[bold]Required Stamps/Signatures:[/bold]
+[bullet] Chief Medical Officer (CMO) – medical viability & ethics sign-off
+[bullet] Captain – Command authorization for body repossession / allocation
+
+[bold]Recommended Additional Stamps (if applicable):[/bold]
+[bullet] Head of Security – confirm no investigative hold
+[bullet] Research Director / Ethics Board – confirm research clearance
+
+────────────────────────────────────────
+[color=#aaaaaa][italic]
+NOTICE: Repossession and allocation of biological bodies is a serious act governed by NanoTrasen Medical Directive §18 and Synthetic Oversight Protocols. This form documents combined medical, ethical, and command authorization when original brain consent is unavailable. Bodies repurposed under this authorization must be logged, tracked, and cross-referenced with all related records. Unauthorized reuse, concealment of holds, or falsification of clearances constitutes a Class-A corporate offense.
+[/italic][/color]
+
+[italic]Place for Medical / Command / Security Stamps and Signatures[/italic]

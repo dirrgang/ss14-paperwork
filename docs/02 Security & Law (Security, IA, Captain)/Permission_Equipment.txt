@@ -1,4 +1,5 @@
 # Equipment Authorization
+[logo]
 
 
 [head=1][color=#cb0000]SECURITY DEPARTMENT[/head][/color]

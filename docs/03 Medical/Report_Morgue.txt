@@ -1,64 +1,84 @@
 # Morgue Report
 [logo]
 
-[head=1][color=#5b97bc]MEDICAL DEPARTMENT[/color][/head]  
-────────────────────────────────────────  
-[head=2][color=#003366][bold]REPORT[/bold][/color][/head] – [color=#0055aa][bolditalic]MORGUE RECORD[/bolditalic][/color]  
-────────────────────────────────────────  
-[center][color=#aaaaaa][italic]Official medical record documenting the confirmed death of a crew member and the results of post-mortem examination[/italic][/color][/center]  
 
-[head=2]Deceased Information[/head]  
-[bold]Date & Time of Death:[/bold] [form]  
-[bold]Full Name of Deceased:[/bold] [form]  
-[bold]Department / Position:[/bold] [form]  
-[bold]Species / Biological Type:[/bold] [form]  
-[bold]Body Recovered By:[/bold] [form]  
+[head=1][color=#5b97bc]MEDICAL DEPARTMENT[/color][/head]
+────────────────────────────────────────
+[head=2][color=#003366][bold]REPORT[/bold][/color][/head] – [color=#0055aa][bolditalic]MORGUE RECORD[/bolditalic][/color]
+────────────────────────────────────────
+[center][color=#aaaaaa][italic]Official record documenting the confirmed death or cognitive loss of a crew member, including post-mortem assessment and reason for non-revival[/italic][/color][/center]
 
-[head=2]Death Details[/head]  
-[bold]Location of Death (if known):[/bold] [form]  
-[bold]Condition of Body on Arrival:[/bold] [form]  
-[bold]Presumed Time Since Death:[/bold] [form]  
-[bold]Observed Wounds / Trauma:[/bold] [form]  
+[head=2]Deceased Information[/head]
+[bold]Date & Time of Death / Pronouncement:[/bold] [form]
+[bold]Full Name of Deceased / Subject:[/bold] [form]
+[bold]Department / Position:[/bold] [form]
+[bold]Species / Biological Type:[/bold] [form]
+[bold]Body Recovered By:[/bold] [form]
 
-[head=2]Cause of Death[/head]  
-[check] Blunt trauma / physical injury  
-[check] Ballistic / projectile wounds  
-[check] Thermal / burn injury  
-[check] Asphyxiation / decompression  
-[check] Toxin / chemical exposure  
-[check] Radiation exposure  
-[check] Biological infection / anomaly  
-[check] Cardiac or medical failure  
-[check] Unknown – further analysis required  
-[check] Other: [form]  
+[head=2]Type of Death[/head]
+[check] Biological death – no vital signs detected
+[check] Cognitive death / SSD (Space Sleep Disorder – brain unresponsive, body viable)
+[check] Confirmed brain destruction / irreversible neural loss
+[check] Other (specify): [form]
 
-[bold]Summary of Findings / Medical Notes:[/bold]  
-[form]  
+[head=2]Death Details[/head]
+[bold]Location of Death (if known):[/bold] [form]
+[bold]Condition of Body on Arrival:[/bold] [form]
+[bold]Presumed Time Since Death / Brain Death:[/bold] [form]
+[bold]Observed Injuries / Anomalies:[/bold] [form]
 
-[head=2]Post-Mortem Processing[/head]  
-[check] Body stored in morgue  
-[check] Released to Security (investigation)  
-[check] Released to next of kin (if applicable)  
-[check] Cremated  
-[check] Spaced / disposed of per policy  
-[check] Other: [form]  
+[head=2]Cause of Death[/head]
+[check] Blunt or crushing trauma
+[check] Ballistic or piercing wound
+[check] Burn / thermal damage
+[check] Asphyxiation / decompression
+[check] Toxin or chemical exposure
+[check] Radiation or environmental hazard
+[check] Biological / anomalous infection
+[check] Cardiac or medical failure
+[check] Cognitive failure (SSD)
+[check] Unknown – under investigation
+[check] Other: [form]
 
-[bold]Additional Remarks / Identification Notes:[/bold]  
-[form]  
+[bold]Summary of Findings / Notes:[/bold]
+[form]
 
-[head=2]Authorization[/head]  
-[bold]Required Stamps/Signatures:[/bold]  
-[bullet] Attending Physician / Coroner  
-[bullet] Chief Medical Officer  
-[bullet] Head of Security (if death involves investigation)  
+[head=2]Processing Assessment[/head]
+[check] Valid DNR order present
+[check] Body unrevivable – catastrophic damage or incompatibility
+[check] No viable clone data / failed cloning attempt
+[check] Brain absent, missing, or non-functional (SSD)
+[check] Consciousness confirmed destroyed (positronic / organic)
+[check] Body processed for reuse (healthy chassis / transplant candidate)
+[check] Other: [form]
 
-────────────────────────────────────────  
-[color=#aaaaaa][italic]  
-NOTICE: All crew fatalities must be recorded for medical and legal purposes under NanoTrasen Health & Safety Directive §14-D. Destruction or falsification of death records constitutes a Class-A offense. Copies must be archived with both the Medical and Security Departments.  
-[/italic][/color]  
+[bold]Summary of Non-Revival or Processing Decision:[/bold]
+[form]
 
+[head=2]Post-Mortem Handling[/head]
+[check] Body stored in morgue
+[check] Released to Security (for investigation)
+[check] Released to crew memorial / next of kin
+[check] Cremated
+[check] Spaced / ejected per regulation
+[check] Transferred to Science for study
+[check] Body repurposed / reassigned to new brain
+[check] Other: [form]
 
+[bold]Additional Remarks / Identification Notes:[/bold]
+[form]
 
+[head=2]Authorization[/head]
+[bold]Required Stamps/Signatures:[/bold]
+[bullet] Attending Physician / Coroner
+[bullet] Chief Medical Officer
+[bullet] Head of Security (if under investigation)
 
+────────────────────────────────────────
+[color=#aaaaaa][italic]
+NOTICE: This record documents both biological and cognitive fatalities as defined under NanoTrasen Medical Directive §14-D and Synthetic Oversight §9-B.
+“Space Sleep Disorder” constitutes irreversible cognitive death for medical and legal purposes. Bodies repurposed for brain transfer or research must be logged under this report and cross-referenced with cloning or processing records.
+Falsifying or omitting death data constitutes a Class-A corporate offense.
+[/italic][/color]
 
-[italic]Place for Medical / Security Stamps and Signatures[/italic]  
+[italic]Place for Medical / Security Stamps and Signatures[/italic]
