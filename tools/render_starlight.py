@@ -17,6 +17,8 @@ if __package__:
         PaperParseError,
         discover_documents,
         normalise_component,
+        render_documents_yaml,
+        render_ftl as render_ftl_bundle,
         to_pascal_case,
         write_output,
     )
@@ -33,6 +35,8 @@ else:
         PaperParseError,
         discover_documents,
         normalise_component,
+        render_documents_yaml,
+        render_ftl as render_ftl_bundle,
         to_pascal_case,
         write_output,
     )
@@ -387,6 +391,18 @@ def build_arg_parser() -> argparse.ArgumentParser:
         help="Destination path for generated lathe category prototypes.",
     )
     parser.add_argument(
+        "--doc-printer-output",
+        type=Path,
+        default=Path(__file__).resolve().parents[1] / "dist" / "doc-printer.ftl",
+        help="Destination path for regenerated doc-printer Fluent entries.",
+    )
+    parser.add_argument(
+        "--documents-output",
+        type=Path,
+        default=Path(__file__).resolve().parents[1] / "dist" / "documents.yml",
+        help="Destination path for regenerated paperwork metadata.",
+    )
+    parser.add_argument(
         "--category-config",
         type=Path,
         help="Optional JSON file mapping primary paperwork categories to output metadata.",
@@ -451,6 +467,8 @@ def main(argv: Sequence[str] | None = None) -> int:
 
     categories = build_category_infos(documents, overrides)
     prototypes_text = render_starlight_documents(documents, categories, not args.show_in_spawn_menu)
+    doc_printer_text = render_ftl_bundle(documents)
+    documents_yaml_text = render_documents_yaml(documents)
     recipes_text = render_starlight_recipes(
         documents,
         categories,
@@ -464,6 +482,10 @@ def main(argv: Sequence[str] | None = None) -> int:
     lathe_category_prototypes_text = render_lathe_category_prototypes(categories)
 
     changes: List[str] = []
+    if write_output(doc_printer_text.rstrip("\n"), args.doc_printer_output):
+        changes.append(str(args.doc_printer_output))
+    if write_output(documents_yaml_text.rstrip("\n"), args.documents_output):
+        changes.append(str(args.documents_output))
     if write_output(prototypes_text.rstrip("\n"), args.prototypes_output):
         changes.append(str(args.prototypes_output))
     if write_output(recipes_text.rstrip("\n"), args.recipes_output):
