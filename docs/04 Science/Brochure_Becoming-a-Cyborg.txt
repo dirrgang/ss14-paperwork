@@ -1,6 +1,7 @@
 # So You’re Thinking About Becoming a Cyborg?
 [logo]
 
+
 [head=1][color=#c96dbf]NANOTRASEN CYBORG INTEGRATION PROGRAM[/color][/head]
 ────────────────────────────────────────
 [center][color=#aaaaaa][italic]"Because death is permanent — but productivity doesn’t have to be."[/italic][/color][/center]
